@@ -1,0 +1,464 @@
+# Translation of Plugins - Boxtal &#8211; Shipping solution - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - Boxtal &#8211; Shipping solution - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-09-18 08:59:38+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Boxtal &#8211; Shipping solution - Stable (latest release)\n"
+
+#: Boxtal/BoxtalConnectWoocommerce/shipping-method/parcel-point/class-controller.php:210
+msgid "Failed to get shipping method extra label: invalid request"
+msgstr "Échec de l’obtention du libellé supplémentaire de la méthode d’expédition : demande invalide"
+
+#: Boxtal/BoxtalConnectWoocommerce/shipping-method/parcel-point/class-controller.php:162
+msgid "Failed to set parcel point: invalid request"
+msgstr "Échec de la définition du point relais : demande invalide"
+
+#: Boxtal/BoxtalConnectWoocommerce/shipping-method/parcel-point/class-controller.php:146
+msgid "Failed to get parcel points: no response from shipping service"
+msgstr "Échec de la récupération des points relais : aucune réponse du service d’expédition"
+
+#: Boxtal/BoxtalConnectWoocommerce/shipping-method/parcel-point/class-controller.php:139
+msgid "Failed to get parcel points: unable to find carrier or package key"
+msgstr "Échec de la récupération des points relais : impossible de trouver le transporteur ou la clé du colis"
+
+#. translators: 1) plugin name
+#: Boxtal/BoxtalConnectWoocommerce/shipping-method/class-settings-override.php:129
+msgid "Parcel points map display (%s)"
+msgstr "Affichage de la carte des points relais (%s)"
+
+#. translators: 1) tutorian link 2) tutorial link label.
+#: Boxtal/BoxtalConnectWoocommerce/settings/class-page.php:223
+msgid "Just one last step, it will only take a few minutes, let us guide you: <a target=\"_blank\" href=\"%1$1s\">%2$2s</a>"
+msgstr "C’est la dernière étape, cela ne vous prendra que quelques minutes, laissez-vous guider : <a target=\"_blank\" href=\"%1$1s\">%2$2s</a>"
+
+#: Boxtal/BoxtalConnectWoocommerce/settings/class-page.php:202
+msgid "Shipping settings"
+msgstr "Réglages d’expédition"
+
+#: Boxtal/BoxtalConnectWoocommerce/settings/class-page.php:194
+msgid "Should remain unchecked by default."
+msgstr "Doit rester décoché par défaut."
+
+#: Boxtal/BoxtalConnectWoocommerce/settings/class-page.php:182
+msgid "Enable logging"
+msgstr "Activer les journaux"
+
+#: Boxtal/BoxtalConnectWoocommerce/settings/class-page.php:163
+msgid "Delivered status"
+msgstr "Statut livré"
+
+#: Boxtal/BoxtalConnectWoocommerce/settings/class-page.php:144
+msgid "Shipped status"
+msgstr "Statut expédié"
+
+#: Boxtal/BoxtalConnectWoocommerce/settings/class-page.php:110
+msgid "Plugin settings"
+msgstr "Réglages de l’extension"
+
+#. translators: 1) company name
+#: Boxtal/BoxtalConnectWoocommerce/assets/views/html-setup-wizard-notice.php:18
+msgid "Welcome to %s!"
+msgstr "Bienvenue sur %s !"
+
+#. Author of the plugin
+#: boxtal-connect.php
+msgid "Boxtal"
+msgstr "Boxtal"
+
+#. Description of the plugin
+#: boxtal-connect.php
+msgid "Negotiated rates for all types of shipping (home, relay, express, etc.). No subscription, no hidden fees."
+msgstr "Des tarifs négociés pour tous types d’expédition (domicile, relais, express, etc.). Sans abonnement, sans frais cachés."
+
+#. translators: 1) platform name
+#: Boxtal/BoxtalConnectWoocommerce/shipping-method/class-shipping-method.php:82
+msgid "Flat rate %s"
+msgstr "Forfait %s"
+
+#. translators: 1) company name
+#: Boxtal/BoxtalConnectWoocommerce/order/class-admin-order-page.php:142
+#: Boxtal/BoxtalConnectWoocommerce/order/class-admin-order-page.php:170
+#: Boxtal/BoxtalConnectWoocommerce/order/class-admin-order-page.php:174
+msgid "%s - Shipment tracking"
+msgstr "%s - Suivi d’expédition"
+
+#. translators: 1) plugin name
+#: Boxtal/BoxtalConnectWoocommerce/order/class-admin-order-page.php:94
+#: Boxtal/BoxtalConnectWoocommerce/order/class-admin-order-page.php:116
+#: Boxtal/BoxtalConnectWoocommerce/order/class-admin-order-page.php:120
+#: Boxtal/BoxtalConnectWoocommerce/subscription/class-admin-subscription-page.php:79
+#: Boxtal/BoxtalConnectWoocommerce/subscription/class-admin-subscription-page.php:83
+msgid "%s - Shipment pickup point"
+msgstr "%s - Point relais d’arrivée"
+
+#: Boxtal/BoxtalConnectWoocommerce/settings/class-page.php:218
+msgid "Go to the tutorial"
+msgstr "Accéder au tutoriel"
+
+#: Boxtal/BoxtalConnectWoocommerce/assets/views/html-setup-wizard-notice.php:21
+msgid "The adventure begins in a few clicks"
+msgstr "L’aventure commence dans quelques clics"
+
+#: Boxtal/BoxtalConnectWoocommerce/assets/views/html-admin-shipping-method-rates-table.php:72
+msgid "If you want your customers to be able to choose their parcel point in the checkout, select the networks below to display"
+msgstr "Si vous souhaitez que vos clients puissent choisir leur point relais dans la page de validation de commande, sélectionnez ci-dessous les réseaux à afficher"
+
+#: Boxtal/BoxtalConnectWoocommerce/assets/views/html-admin-shipping-method-rates-table.php:61
+msgid "Status"
+msgstr "État"
+
+#: Boxtal/BoxtalConnectWoocommerce/assets/views/html-admin-shipping-method-rates-table.php:55
+msgid "If you've set up a shipping tax, it will be applied to this price for your client."
+msgstr "Si vous avez mis en place une taxe d’expédition, celle-ci s’ajoutera à ce prix pour votre client."
+
+#: Boxtal/BoxtalConnectWoocommerce/assets/views/html-admin-shipping-method-rates-table.php:54
+msgid "If you wish to offer the shipping for free, put 0."
+msgstr "Si vous souhaitez offrir la livraison, indiquez 0."
+
+#: Boxtal/BoxtalConnectWoocommerce/assets/views/html-admin-shipping-method-rates-table.php:53
+msgid "Price displayed ex-Tax"
+msgstr "Prix affiché hors taxes"
+
+#: Boxtal/BoxtalConnectWoocommerce/assets/views/html-admin-shipping-method-rates-table.php:50
+msgid "Parcel point's maps to show to your customers"
+msgstr "Carte de points relais à afficher pour vos clients"
+
+#. translators: %1$1s: link start %2$2s: link end
+#: Boxtal/BoxtalConnectWoocommerce/assets/views/html-admin-shipping-method-rates-table.php:25
+msgid "Need some help? Just follow the instructions on %1$sthis article%2$s."
+msgstr "Besoin d’aide ? N’hésitez pas à consulter les instructions dans %1$scet article%2$s."
+
+#: Boxtal/BoxtalConnectWoocommerce/assets/views/html-admin-shipping-method-rates-table.php:20
+msgid "Set up your rules regarding the shipping costs that will be displayed for your clients in the checkout page. The rules are prioritized from top to bottom. If no rules is applicable, the shipping method won't be displayed."
+msgstr "Définissez ici les coûts d’expédition qui seront affichés pour vos clients sur la page de validation de commande. Les règles sont priorisées de haut en bas. Si aucune règle n’est applicable, la méthode d’expédition ne sera pas affichée."
+
+#: Boxtal/BoxtalConnectWoocommerce/assets/views/html-pairing-success-notice.php:20
+msgid "Finalize the settings"
+msgstr "Finaliser les réglages"
+
+#: Boxtal/BoxtalConnectWoocommerce/assets/views/html-pairing-success-notice.php:17
+msgid "Finalize your settings to start shipping"
+msgstr "Finalisez vos réglages pour commencer à expédier"
+
+#: Boxtal/BoxtalConnectWoocommerce/assets/views/html-pairing-success-notice.php:16
+msgid "Congratulations, your shop is connected !"
+msgstr "Félicitations, votre boutique est connectée !"
+
+#. translators: 1) company name
+#: Boxtal/BoxtalConnectWoocommerce/shipping-method/class-settings-override.php:116
+msgid "No need to use it if you're using %s shipping method, as it's available directly when you set it up."
+msgstr "Inutile si vous utilisez la méthode d’expédition %s qui vous permet déjà de sélectionner une carte."
+
+#: Boxtal/BoxtalConnectWoocommerce/shipping-method/class-settings-override.php:105
+msgid "To use only if you want to offer free shipping through coupons."
+msgstr "À activer uniquement si vous souhaitez utiliser les codes promo pour la livraison gratuite."
+
+#: Boxtal/BoxtalConnectWoocommerce/shipping-method/class-shipping-method.php:49
+msgid "Lets you define weight/price ranges of your shipping costs for each of your delivery methods and add a parcel point map."
+msgstr "Vous permet de définir des fourchettes de poids/prix pour vos tarifs d’expédition et d’ajouter une carte de point relais."
+
+#. translators: %s: distance in km
+#. translators: parcel point distance
+#: Boxtal/BoxtalConnectWoocommerce/util/class-frontend-util.php:307
+#: Boxtal/BoxtalConnectWoocommerce/util/class-parcelpoint-util.php:213
+#: Boxtal/BoxtalConnectWoocommerce/assets/js/parcel-point.js:148
+msgid "%skm away"
+msgstr "à %skm"
+
+#: Boxtal/BoxtalConnectWoocommerce/assets/views/html-admin-shipping-method-rates-table.php:45
+msgid "Beware that newly created shipping classes won't be selected by default"
+msgstr "Attention, les classes de livraison nouvellement créées ne seront pas sélectionnées par défaut"
+
+#: Boxtal/BoxtalConnectWoocommerce/assets/views/html-admin-shipping-method-rates-table.php:44
+msgid "if you choose a shipping class, the rule will only apply to carts with all products belonging to the class"
+msgstr "Si vous choisissez une classe de livraison, la règle s’appliquera uniquement aux paniers avec tous les produits dans cette classe"
+
+#: Boxtal/BoxtalConnectWoocommerce/assets/views/html-admin-shipping-method-rates-table.php:43
+msgid "Shipping class"
+msgstr "Classe de livraison"
+
+#: Boxtal/BoxtalConnectWoocommerce/assets/views/html-admin-shipping-method-rates-table.php:39
+msgid "Cart weight"
+msgstr "Poids du panier"
+
+#: Boxtal/BoxtalConnectWoocommerce/assets/views/html-admin-shipping-method-rates-table.php:37
+msgid "Cart price Excluding Tax"
+msgstr "Prix du panier HT"
+
+#: Boxtal/BoxtalConnectWoocommerce/assets/views/html-admin-order-parcelpoint.php:61
+#: Boxtal/BoxtalConnectWoocommerce/assets/views/html-admin-subscription-parcelpoint.php:61
+#: Boxtal/BoxtalConnectWoocommerce/assets/views/html-order-parcelpoint.php:61
+msgid "Pickup point address"
+msgstr "Adresse du point relais"
+
+#: Boxtal/BoxtalConnectWoocommerce/assets/views/html-admin-order-parcelpoint.php:19
+#: Boxtal/BoxtalConnectWoocommerce/assets/views/html-admin-subscription-parcelpoint.php:19
+#: Boxtal/BoxtalConnectWoocommerce/assets/views/html-order-parcelpoint.php:19
+#: Boxtal/BoxtalConnectWoocommerce/util/class-frontend-util.php:314
+#: Boxtal/BoxtalConnectWoocommerce/assets/js/parcel-point.js:160
+msgid "SUNDAY"
+msgstr "DIMANCHE"
+
+#: Boxtal/BoxtalConnectWoocommerce/assets/views/html-admin-order-parcelpoint.php:18
+#: Boxtal/BoxtalConnectWoocommerce/assets/views/html-admin-subscription-parcelpoint.php:18
+#: Boxtal/BoxtalConnectWoocommerce/assets/views/html-order-parcelpoint.php:18
+#: Boxtal/BoxtalConnectWoocommerce/util/class-frontend-util.php:313
+#: Boxtal/BoxtalConnectWoocommerce/assets/js/parcel-point.js:159
+msgid "SATURDAY"
+msgstr "SAMEDI"
+
+#: Boxtal/BoxtalConnectWoocommerce/assets/views/html-admin-order-parcelpoint.php:17
+#: Boxtal/BoxtalConnectWoocommerce/assets/views/html-admin-subscription-parcelpoint.php:17
+#: Boxtal/BoxtalConnectWoocommerce/assets/views/html-order-parcelpoint.php:17
+#: Boxtal/BoxtalConnectWoocommerce/util/class-frontend-util.php:312
+#: Boxtal/BoxtalConnectWoocommerce/assets/js/parcel-point.js:158
+msgid "FRIDAY"
+msgstr "VENDREDI"
+
+#: Boxtal/BoxtalConnectWoocommerce/assets/views/html-admin-order-parcelpoint.php:16
+#: Boxtal/BoxtalConnectWoocommerce/assets/views/html-admin-subscription-parcelpoint.php:16
+#: Boxtal/BoxtalConnectWoocommerce/assets/views/html-order-parcelpoint.php:16
+#: Boxtal/BoxtalConnectWoocommerce/util/class-frontend-util.php:311
+#: Boxtal/BoxtalConnectWoocommerce/assets/js/parcel-point.js:157
+msgid "THURSDAY"
+msgstr "JEUDI"
+
+#: Boxtal/BoxtalConnectWoocommerce/assets/views/html-admin-order-parcelpoint.php:15
+#: Boxtal/BoxtalConnectWoocommerce/assets/views/html-admin-subscription-parcelpoint.php:15
+#: Boxtal/BoxtalConnectWoocommerce/assets/views/html-order-parcelpoint.php:15
+#: Boxtal/BoxtalConnectWoocommerce/util/class-frontend-util.php:310
+#: Boxtal/BoxtalConnectWoocommerce/assets/js/parcel-point.js:156
+msgid "WEDNESDAY"
+msgstr "MERCREDI"
+
+#: Boxtal/BoxtalConnectWoocommerce/assets/views/html-admin-order-parcelpoint.php:14
+#: Boxtal/BoxtalConnectWoocommerce/assets/views/html-admin-subscription-parcelpoint.php:14
+#: Boxtal/BoxtalConnectWoocommerce/assets/views/html-order-parcelpoint.php:14
+#: Boxtal/BoxtalConnectWoocommerce/util/class-frontend-util.php:309
+#: Boxtal/BoxtalConnectWoocommerce/assets/js/parcel-point.js:155
+msgid "TUESDAY"
+msgstr "MARDI"
+
+#: Boxtal/BoxtalConnectWoocommerce/assets/views/html-admin-order-parcelpoint.php:13
+#: Boxtal/BoxtalConnectWoocommerce/assets/views/html-admin-subscription-parcelpoint.php:13
+#: Boxtal/BoxtalConnectWoocommerce/assets/views/html-order-parcelpoint.php:13
+#: Boxtal/BoxtalConnectWoocommerce/util/class-frontend-util.php:308
+#: Boxtal/BoxtalConnectWoocommerce/assets/js/parcel-point.js:154
+msgid "MONDAY"
+msgstr "LUNDI"
+
+#: Boxtal/BoxtalConnectWoocommerce/assets/views/html-front-order-parcelpoint.php:14
+#: Boxtal/BoxtalConnectWoocommerce/assets/views/html-front-subscription-parcelpoint.php:14
+msgid "Chosen pickup point"
+msgstr "Point relais sélectionné"
+
+#. translators: %1$s : parcelpoint code, %2$s : parcelpoint network name
+#: Boxtal/BoxtalConnectWoocommerce/assets/views/html-admin-order-edit-page-parcelpoint.php:23
+#: Boxtal/BoxtalConnectWoocommerce/assets/views/html-admin-subscription-edit-page-parcelpoint.php:23
+msgid "Your client chose the pickup point %1$s from %2$s."
+msgstr "Votre client a sélectionné le point relais %1$s de %2$s."
+
+#: Boxtal/BoxtalConnectWoocommerce/settings/class-page.php:88
+msgid "No status associated"
+msgstr "Aucun statut associé"
+
+#: Boxtal/BoxtalConnectWoocommerce/rest-controller/class-order.php:243
+msgid "Your order has been delivered."
+msgstr "Votre commande a été livrée."
+
+#: Boxtal/BoxtalConnectWoocommerce/rest-controller/class-order.php:220
+msgid "Your order has been shipped."
+msgstr "Votre commande a été expédiée."
+
+#: Boxtal/BoxtalConnectWoocommerce/util/class-shipping-method-util.php:43
+msgid "No shipping class"
+msgstr "Aucune classe de livraison"
+
+#: Boxtal/BoxtalConnectWoocommerce/shipping-method/class-shipping-method.php:80
+msgid "This controls the title which the user sees during checkout."
+msgstr "Ceci contrôle le titre que le client voit lors de la commande."
+
+#: Boxtal/BoxtalConnectWoocommerce/shipping-method/class-shipping-method.php:78
+msgid "Method title"
+msgstr "Titre de la méthode"
+
+#: Boxtal/BoxtalConnectWoocommerce/assets/views/html-admin-shipping-method-rates-table.php:91
+msgid "Add rule"
+msgstr "Ajouter une règle"
+
+#: Boxtal/BoxtalConnectWoocommerce/assets/views/html-admin-shipping-method-rates-table.php:68
+#: Boxtal/BoxtalConnectWoocommerce/assets/views/html-admin-shipping-method-rates-table.php:70
+msgid "To"
+msgstr "A"
+
+#: Boxtal/BoxtalConnectWoocommerce/assets/views/html-admin-shipping-method-rates-table.php:67
+#: Boxtal/BoxtalConnectWoocommerce/assets/views/html-admin-shipping-method-rates-table.php:69
+msgid "From"
+msgstr "De"
+
+#: Boxtal/BoxtalConnectWoocommerce/assets/views/html-admin-shipping-method-rates-table.php:18
+msgid "Pricing rules"
+msgstr "Règles de prix"
+
+#. Author URI of the plugin
+#: boxtal-connect.php
+msgid "https://www.boxtal.com"
+msgstr "https://www.boxtal.com"
+
+#. Plugin Name of the plugin
+#: boxtal-connect.php
+msgid "Boxtal Connect"
+msgstr "Boxtal Connect"
+
+#. translators: 1) Plugin name 2) minimum woocommerce version 3) current
+#. woocommerce version
+#: Boxtal/BoxtalConnectWoocommerce/util/class-environment-util.php:40
+msgid "%1$s - The minimum WooCommerce version required for this plugin is %2$s. You are running %3$s."
+msgstr "%1$s - La version minimale de WooCommerce pour cette extension est la version %2$s. Vous utilisez actuellement la version %3$s."
+
+#. translators: 1) Plugin name
+#: Boxtal/BoxtalConnectWoocommerce/util/class-environment-util.php:35
+msgid "%s requires WooCommerce to be activated to work."
+msgstr "%s nécessite l’activation de WooCommerce pour fonctionner."
+
+#. translators: 1) int version 2) int version
+#: Boxtal/BoxtalConnectWoocommerce/util/class-environment-util.php:29
+msgid "%1$s - The minimum PHP version required for this plugin is %2$s. You are running %3$s."
+msgstr "%1$s - La version PHP minimale nécessaire pour cette extension est %2$s. Vous utilisez la version %3$s."
+
+#: Boxtal/BoxtalConnectWoocommerce/util/class-configuration-util.php:248
+msgid "There's been a change in the parcel point network list, you can add the extra parcel point network(s) to your shipping method configuration."
+msgstr "La liste des réseaux de points relais a changé, vous pouvez ajouter le(s) nouveau(x) réseau(x) dans la configuration de vos méthodes de livraison."
+
+#: Boxtal/BoxtalConnectWoocommerce/util/class-configuration-util.php:230
+msgid "There's been a change in the parcel point network list, we've adapted your shipping method configuration. Please check that everything is in order."
+msgstr "La liste des réseaux de points relais a changé, nous avons adapté la configuration de vos méthodes de livraison. Veuillez vérifier que tout est en ordre."
+
+#: Boxtal/BoxtalConnectWoocommerce/util/class-frontend-util.php:247
+msgid "Choose another"
+msgstr "Choisir un autre point relais"
+
+#: Boxtal/BoxtalConnectWoocommerce/util/class-frontend-util.php:236
+msgid "Closest parcel point:"
+msgstr "Point relais le plus proche :"
+
+#: Boxtal/BoxtalConnectWoocommerce/util/class-frontend-util.php:239
+#: Boxtal/BoxtalConnectWoocommerce/util/class-frontend-util.php:305
+#: Boxtal/BoxtalConnectWoocommerce/assets/js/parcel-point.js:152
+msgid "Your parcel point:"
+msgstr "Votre point relais :"
+
+#: Boxtal/BoxtalConnectWoocommerce/util/class-frontend-util.php:304
+#: Boxtal/BoxtalConnectWoocommerce/assets/js/parcel-point.js:153
+msgid "Close map"
+msgstr "Fermer la carte"
+
+#: Boxtal/BoxtalConnectWoocommerce/util/class-frontend-util.php:303
+#: Boxtal/BoxtalConnectWoocommerce/assets/js/parcel-point.js:151
+msgid "Choose this parcel point"
+msgstr "Choisir ce point relais"
+
+#: Boxtal/BoxtalConnectWoocommerce/assets/views/html-admin-order-parcelpoint.php:71
+#: Boxtal/BoxtalConnectWoocommerce/assets/views/html-admin-subscription-parcelpoint.php:71
+#: Boxtal/BoxtalConnectWoocommerce/assets/views/html-order-parcelpoint.php:71
+#: Boxtal/BoxtalConnectWoocommerce/util/class-frontend-util.php:302
+#: Boxtal/BoxtalConnectWoocommerce/assets/js/parcel-point.js:150
+msgid "Opening hours"
+msgstr "Horaires d’ouverture"
+
+#: Boxtal/BoxtalConnectWoocommerce/util/class-frontend-util.php:301
+#: Boxtal/BoxtalConnectWoocommerce/assets/js/parcel-point.js:149
+#: Boxtal/BoxtalConnectWoocommerce/assets/js/parcel-point.js:644
+#: Boxtal/BoxtalConnectWoocommerce/assets/js/parcel-point.js:680
+#: Boxtal/BoxtalConnectWoocommerce/assets/js/parcel-point.js:700
+msgid "Unable to find carrier"
+msgstr "Impossible de trouver le transporteur"
+
+#: Boxtal/BoxtalConnectWoocommerce/assets/views/html-setup-wizard-notice.php:24
+msgid "Connect my shop"
+msgstr "Je connecte ma boutique"
+
+#: Boxtal/BoxtalConnectWoocommerce/assets/views/html-pairing-update-notice.php:20
+msgid "no"
+msgstr "non"
+
+#: Boxtal/BoxtalConnectWoocommerce/assets/views/html-pairing-update-notice.php:19
+msgid "yes"
+msgstr "oui"
+
+#. translators: 1) company name
+#: Boxtal/BoxtalConnectWoocommerce/assets/views/html-pairing-update-notice.php:17
+msgid "Security alert: someone is trying to pair your site with %s. Was it you?"
+msgstr "Alerte de sécurité : quelqu’un essaie de connecter ce site à %s. Est-ce vous ?"
+
+#. translators: 1) company name 2) company name
+#: Boxtal/BoxtalConnectWoocommerce/assets/views/html-pairing-failure-notice.php:17
+msgid "Pairing with %1$1s is not complete. Please check your WooCommerce connector in your %2$2s account for a more complete diagnostic."
+msgstr "La connexion avec %1$1s est incomplète. Veuillez vérifier votre connecteur WooCommerce dans votre compte %2$2s pour un diagnostic plus complet."
+
+#: Boxtal/BoxtalConnectWoocommerce/assets/views/html-admin-order-tracking.php:54
+#: Boxtal/BoxtalConnectWoocommerce/assets/views/html-order-tracking.php:35
+msgid "No tracking event for this package yet."
+msgstr "Aucun évènement de suivi disponible pour ce colis."
+
+#: Boxtal/BoxtalConnectWoocommerce/assets/views/html-admin-order-tracking.php:48
+msgid "Y-m-d H:i:s"
+msgstr "d-m-Y H:i:s"
+
+#. translators: 1) shipment tracking url
+#. translators: 1) shipment reference
+#: Boxtal/BoxtalConnectWoocommerce/assets/views/html-admin-order-tracking.php:38
+#: Boxtal/BoxtalConnectWoocommerce/assets/views/html-admin-order-tracking.php:41
+#: Boxtal/BoxtalConnectWoocommerce/assets/views/html-order-tracking.php:28
+#: Boxtal/BoxtalConnectWoocommerce/assets/views/html-order-tracking.php:31
+msgid "Package reference %s"
+msgstr "Référence du colis %s"
+
+#. translators: 1) int number of shipments
+#: Boxtal/BoxtalConnectWoocommerce/assets/views/html-admin-order-tracking.php:33
+#: Boxtal/BoxtalConnectWoocommerce/assets/views/html-order-tracking.php:23
+msgid "Your shipment has %s packages."
+msgstr "Votre envoi est composé de %s colis."
+
+#. translators: 1) int number of shipments
+#: Boxtal/BoxtalConnectWoocommerce/assets/views/html-admin-order-tracking.php:30
+#: Boxtal/BoxtalConnectWoocommerce/assets/views/html-order-tracking.php:20
+msgid "Your shipment has %s package."
+msgstr "Votre envoi est composé de %s colis."
+
+#. translators: 1) shipment reference
+#: Boxtal/BoxtalConnectWoocommerce/assets/views/html-admin-order-tracking.php:26
+msgid "Shipment reference %s"
+msgstr "Référence d’expédition %s"
+
+#. translators: 1) int number of shipments
+#: Boxtal/BoxtalConnectWoocommerce/assets/views/html-admin-order-tracking.php:21
+msgid "Your order has been sent in %s shipments."
+msgstr "Votre commande a été expédiée en %s envois."
+
+#: Boxtal/BoxtalConnectWoocommerce/assets/views/html-admin-order-tracking.php:18
+msgid "Your order has been sent in 1 shipment."
+msgstr "Votre commande a été expédiée en 1 envoi."
+
+#: Boxtal/BoxtalConnectWoocommerce/assets/views/html-front-order-tracking.php:14
+msgid "Order tracking"
+msgstr "Suivi de commande"
+
+#: Boxtal/BoxtalConnectWoocommerce/assets/views/html-custom-notice.php:17
+msgid "Hide this notice"
+msgstr "Masquer cette notification"
+
+#. translators: 1) Plugin name
+#: Boxtal/BoxtalConnectWoocommerce/assets/views/html-configuration-failure-notice.php:17
+msgid "There was a problem initializing the %s plugin. You should contact our support team."
+msgstr "Il y a eu un problème lors de l’initialisation de l’extension %s. Veuillez contacter notre équipe support."
+
+#: Boxtal/BoxtalConnectWoocommerce/assets/views/html-admin-order-view-modal-tracking.php:14
+msgid "Tracking details"
+msgstr "Détails de suivi"

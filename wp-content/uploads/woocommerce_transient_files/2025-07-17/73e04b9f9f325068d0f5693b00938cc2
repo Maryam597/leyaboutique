@@ -1,0 +1,62 @@
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<style>
+html { font-family: "Helvetica Neue", sans-serif; font-size: 12pt; }
+header { margin-top: 16; }
+h1 { font-size: 24pt; font-weight: 500; text-align: center; }
+h3 { color: #707070; margin:0; }
+table {
+	background-color:#F5F5F5;
+	width:100%;
+	color: #707070;
+	margin: 8pt 0;
+	padding: 8pt;
+}
+table td:last-child { width: 30%; text-align: right; }
+table tr:last-child { color: #000000; font-weight: bold; }
+footer {
+	font-size: 10pt;
+	border-top: 1px solid #707070;
+	margin-top: 16pt;
+	padding-top: 16pt;
+}
+p { line-height: 18pt; margin: 0 0 8 0; }
+.card-icon {
+	width: 24pt;
+	height: 18pt;
+	vertical-align: top;
+	background-repeat: no-repeat;
+	background-position-y: center;
+	display: inline-block;
+	background-image: url("data:image/svg+xml;base64,PHN2ZyBpZD0iTGF5ZXJfMSIgZGF0YS1uYW1lPSJMYXllciAxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA3NTAgNDcxIiBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJ4TWlkWU1pZCBtZWV0Ij48ZGVmcz48c3R5bGU+LmNscy0xe2ZpbGw6Izc1Nzg3Yzt9PC9zdHlsZT48L2RlZnM+PHRpdGxlPmNyZWRpdC1jYXJkPC90aXRsZT48ZyBpZD0iUGFnZS0xIj48ZyBpZD0iYW1leCI+PGcgaWQ9IlJlY3RhbmdsZS0xIj48cGF0aCBjbGFzcz0iY2xzLTEiIGQ9Ik03MTEsNDBWNDMxSDQxVjQwSDcxMW0wLTQwSDQxQTQwLDQwLDAsMCwwLDEsNDBWNDMxYTQwLDQwLDAsMCwwLDQwLDQwSDcxMWE0MCw0MCwwLDAsMCw0MC00MFY0MEE0MCw0MCwwLDAsMCw3MTEsMFoiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC0xKSIvPjwvZz48L2c+PC9nPjxyZWN0IGNsYXNzPSJjbHMtMSIgeD0iMTEiIHk9IjExMyIgd2lkdGg9IjcyOCIgaGVpZ2h0PSIxMDAuNzMiLz48cmVjdCBjbGFzcz0iY2xzLTEiIHg9IjQ1IiB5PSIzNTQuMDgiIHdpZHRoPSI5MyIgaGVpZ2h0PSIzMi45MiIvPjxyZWN0IGNsYXNzPSJjbHMtMSIgeD0iMTcyIiB5PSIzNTQuMDgiIHdpZHRoPSIxNTUuOTQiIGhlaWdodD0iMzIuOTIiLz48L3N2Zz4=");
+}
+	</style>
+</head>
+
+<body>
+<header>
+	<h1 id="receipt_title">Reçu</h1>
+	<h3 id="amount_paid_section_title">MONTANT PAYé</h3>
+	<p>
+		<span class="woocommerce-Price-amount amount"><bdi>39,95&nbsp;<span class="woocommerce-Price-currencySymbol">&euro;</span></bdi></span>	</p>
+	<h3 id="date_paid_section_title">DATE DU PAIEMENT</h3>
+	<p>
+		15 juillet 2025	</p>
+
+	<h3 id="payment_status_section_title">ÉTAT DU PAIEMENT</h3>
+	<p>Succès</p>
+
+			<h3 id="payment_method_section_title">MOYEN DE PAIEMENT</h3>
+		<p>
+							<span>Paiement au retrait de commande</span>
+					</p>
+	</header>
+
+<h3 id="summary_section_title">RéSUMé : COMMANDE NUMéRO 1761</h3>
+<table id="line_items">
+	<tr><td>Bouquet de Hijabs personnalisé × 1</td><td><span class="woocommerce-Price-amount amount">39,95&nbsp;<span class="woocommerce-Price-currencySymbol">&euro;</span></span></td></tr><tr><td>Sous-total</td><td><span class="woocommerce-Price-amount amount">39,95&nbsp;<span class="woocommerce-Price-currencySymbol">&euro;</span></span></td></tr><tr><td>Montant payé</td><td><span class="woocommerce-Price-amount amount">39,95&nbsp;<span class="woocommerce-Price-currencySymbol">&euro;</span></span></td></tr></table>
+
+
+</body>
+</html>

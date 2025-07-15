@@ -1,0 +1,10 @@
+2025-06-23T08:15:20+00:00 INFO Automatic database update triggered.
+2025-06-23T08:15:20+00:00 INFO Scheduling database updates (from 9.3.3 to 9.9.4)...
+2025-06-23T08:15:20+00:00 INFO   Updates from version 9.4.0 scheduled.
+2025-06-23T08:15:20+00:00 INFO   Updates from version 9.5.0 scheduled.
+2025-06-23T08:15:20+00:00 INFO   Updates from version 9.6.1 scheduled.
+2025-06-23T08:15:20+00:00 INFO   Updates from version 9.8.0 scheduled.
+2025-06-23T08:15:20+00:00 INFO   Updates from version 9.8.5 scheduled.
+2025-06-23T08:15:20+00:00 INFO   Updates from version 9.9.0 scheduled.
+2025-06-23T08:15:20+00:00 INFO Database updates scheduled.
+2025-06-23T08:15:38+00:00 INFO During the update to 9.4.0, WooCommerce removed 1 user meta row associated with the meta key "woocommerce_admin_help_panel_highlight_shown".

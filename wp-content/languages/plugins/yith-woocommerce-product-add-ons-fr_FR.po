@@ -1,0 +1,2680 @@
+# Translation of Plugins - YITH WooCommerce Product Add-Ons - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - YITH WooCommerce Product Add-Ons - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-03-17 10:27:17+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - YITH WooCommerce Product Add-Ons - Stable (latest release)\n"
+
+#. translators: Search box in the block list.
+#: views/block-editor/blocks-table.php:44
+#: plugin-fw/dist/lapilli-ui/components/index.js:1
+msgid "Search"
+msgstr "Rechercher"
+
+#. translators: Hidden accessibility text.
+#: plugin-fw/includes/class-yith-post-type-admin.php:414
+msgid "Show more details"
+msgstr "Afficher plus de détails"
+
+#. translators: Filter button in the block list.
+#: includes/admin-tables/class-yith-wapo-blocks-list-table.php:489
+msgid "Filter"
+msgstr "Filtrer"
+
+#. translators: Status filter in the block list.
+#: includes/admin-tables/class-yith-wapo-blocks-list-table.php:449
+msgid "All status"
+msgstr "Tous les états"
+
+#. translators: When a user search in the blocks table and no blocks are found.
+#: includes/admin-tables/class-yith-wapo-blocks-list-table.php:390
+msgid "No blocks found"
+msgstr "Aucun bloc trouvé"
+
+#. translators: Column name in the block list.
+#: includes/admin-tables/class-yith-wapo-blocks-list-table.php:52
+msgid "Show on"
+msgstr "Afficher sur"
+
+#: views/addon-editor/addon-conditional-logic.php:243
+msgid "Set conditions"
+msgstr "Définir les conditions"
+
+#: views/addon-editor/addon-conditional-logic.php:218
+msgid "Search for a variation..."
+msgstr "Rechercher une variation…"
+
+#: views/addon-editor/addon-conditional-logic.php:204
+msgid "in"
+msgstr "dans"
+
+#: views/addon-editor/addon-conditional-logic.php:174
+msgid "Enable if you want to set rules to hide or show the options in specific product variations."
+msgstr "Activez si vous souhaitez définir des règles pour masquer ou afficher les options dans des variations de produit spécifiques."
+
+#: views/addon-editor/addon-conditional-logic.php:160
+msgid "Show/hide on specific variations"
+msgstr "Afficher/masquer sur des variations spécifiques"
+
+#: includes/admin-tables/class-yith-wapo-blocks-list-table.php:228
+msgctxt "[ADMIN] Block list page (action)"
+msgid "Move"
+msgstr "Déplacer"
+
+#: includes/admin-tables/class-yith-wapo-blocks-list-table.php:222
+msgctxt "[ADMIN] Block list page (action)"
+msgid "Are you sure you want to delete this block?"
+msgstr "Confirmez-vous la suppression de ce bloc ?"
+
+#: includes/admin-tables/class-yith-wapo-blocks-list-table.php:221
+msgctxt "[ADMIN] Block list page (action)"
+msgid "Confirm delete"
+msgstr "Confirmer la suppression"
+
+#: includes/admin-tables/class-yith-wapo-blocks-list-table.php:208
+msgctxt "[ADMIN] Block list page (action)"
+msgid "Delete"
+msgstr "Supprimer"
+
+#: includes/admin-tables/class-yith-wapo-blocks-list-table.php:194
+msgctxt "[ADMIN] Block list page (action)"
+msgid "Duplicate"
+msgstr "Dupliquer"
+
+#: includes/admin-tables/class-yith-wapo-blocks-list-table.php:182
+msgctxt "[ADMIN] Block list page (action)"
+msgid "Edit"
+msgstr "Modifier"
+
+#. translators: [ADMIN] Edit block page (delete action)
+#: views/block-editor/block-editor.php:253
+msgid "Yes, delete"
+msgstr "Oui, supprimer"
+
+#. translators: [ADMIN] Edit block page (delete action)
+#: views/block-editor/block-editor.php:251
+msgid "Are you sure you want to delete this add-on?"
+msgstr "Confirmez-vous vouloir la suppression de ce module ?"
+
+#. translators: [ADMIN] Edit block page.
+#: views/block-editor/block-editor.php:173
+msgctxt "several options on Add-on title. Ex: Date (2 options)"
+msgid "options"
+msgstr "options"
+
+#. translators: [ADMIN] Edit block page.
+#: views/block-editor/block-editor.php:173
+msgctxt "singular option on Add-on title. Ex: Date (1 option)"
+msgid "option"
+msgstr "option"
+
+#: views/block-editor/block-editor.php:26
+msgctxt "[ADMIN] Edit block page"
+msgid "Back to blocks list"
+msgstr "Retour à la liste des blocs"
+
+#. translators: general add-on option.
+#: views/addon-editor/option-common-fields.php:285
+msgid "Enable to make this option mandatory for users."
+msgstr "Activer pour rendre cette option obligatoire pour les internautes."
+
+#. translators: general add-on option.
+#: views/addon-editor/option-common-fields.php:223
+msgid "sale"
+msgstr "promo"
+
+#. translators: general add-on option.
+#: views/addon-editor/option-common-fields.php:214
+msgid "discount"
+msgstr "remise"
+
+#. translators: general add-on option.
+#: views/addon-editor/option-common-fields.php:173
+msgid "Product price decrease - set discount"
+msgstr "Diminution du prix du produit - définir la remise"
+
+#. translators: general add-on option.
+#: views/addon-editor/option-common-fields.php:171
+msgid "Product price increase - set option price"
+msgstr "Augmentation du prix du produit - définir le prix de l’option"
+
+#. translators: Add-on editor panel
+#: views/addon-editor/addon-editor.php:203
+msgctxt "Add-on editor panel"
+msgid "Selected by default"
+msgstr "Sélectionné par défaut"
+
+#: views/addon-editor/addon-editor.php:27
+msgctxt "Add-on editor panel (option action)"
+msgid "Yes, delete"
+msgstr "Oui, supprimer"
+
+#: views/addon-editor/addon-editor.php:26
+msgctxt "Add-on editor panel (option action)"
+msgid "Are you sure you want to delete this option?"
+msgstr "Confirmez-vous vouloir supprimer cette option ?"
+
+#: views/addon-editor/addon-editor.php:25
+msgctxt "Add-on editor panel (option action)"
+msgid "Confirm delete"
+msgstr "Confirmer la suppression"
+
+#: views/addon-editor/addon-editor.php:20
+msgctxt "Add-on editor panel (option action)"
+msgid "Delete"
+msgstr "Supprimer"
+
+#. translators: String in the Conditional logic section (select, not select,
+#. empty, not empty).
+#: views/addon-editor/addon-conditional-logic.php:300
+msgctxt "[ADMIN] Translate in second person, not infinitive"
+msgid "Select an option"
+msgstr "Sélectionner une option"
+
+#: views/addon-editor/addon-conditional-logic.php:248
+msgid "only if"
+msgstr "uniquement si"
+
+#. translators: When the add-on has no title on the conditional logic selector.
+#: views/addon-editor/addon-conditional-logic.php:56
+msgid "Empty title"
+msgstr "Titre vide"
+
+#: templates/front/block.php:21
+msgctxt "[FRONT] Text to show when an option is required"
+msgid "This option is required."
+msgstr "Cette option est nécessaire."
+
+#: templates/front/addons/text.php:130
+msgid "You need to enter less than %1$d characters."
+msgstr "Vous devez saisir moins de %1$d caractères."
+
+#: templates/front/addons/text.php:128
+msgid "You need to enter at least %1$d characters."
+msgstr "Vous devez saisir au moins %1$d caractères."
+
+#: templates/front/addons/text.php:126
+msgid "You need to enter between %1$d and %2$d characters."
+msgstr "Vous devez saisir entre %1$d et %2$d caractères."
+
+#. translators: [ADMIN] Style tab option
+#: plugin-options/style-options.php:20
+msgid "Block style"
+msgstr "Style du bloc"
+
+#. translators: [ADMIN] General Settings tab option
+#: plugin-options/settings/general-options.php:43
+msgid "Choose the button to display on WooCommerce pages."
+msgstr "Choisissez le bouton à afficher sur les pages WooCommerce."
+
+#: plugin-options/settings-options.php:24
+msgctxt "Admin title of tab"
+msgid "Set the cart options of the Product Add-ons plugin on the Cart and Checkout pages."
+msgstr "Définissez les options de panier de l’extension Product Add-ons sur les pages « Panier » et « Valider la commande »."
+
+#: plugin-options/settings-options.php:20
+msgctxt "Admin title of tab"
+msgid "Set the general options of the Product Add-ons features."
+msgstr "Définissez les options générales des fonctionnalités de Product Add-ons."
+
+#: plugin-options/blocks-options.php:18
+msgid "Create blocks of options and set in which products to show them."
+msgstr "Créez des blocs d’options et définissez les produits sur lesquels ils doivent être affichés."
+
+#: plugin-options/blocks-options.php:17
+msgid "Options blocks"
+msgstr "Blocs d’options"
+
+#: init.php:115
+msgctxt "[ADMIN] Message when WC is not activated on the site"
+msgid "YITH WooCommerce Product Add-ons & Extra Options is enabled but not effective. It requires WooCommerce in order to work."
+msgstr "YITH WooCommerce Product Add-ons & Extra Options est activé mais n’est pas fonctionnel. Il nécessite WooCommerce afin de fonctionner."
+
+#. translators: [ADMIN] Add-on editor > Options configuration option
+#: includes/yith-wapo-functions.php:737
+msgctxt "Add-on editor panel > Add a new + add-on name (masc)"
+msgid "Add a new"
+msgstr "Ajouter"
+
+#. translators: [ADMIN] Add-on editor > Options configuration option
+#: includes/yith-wapo-functions.php:732
+msgid "Sum of options between"
+msgstr "Somme des options entre"
+
+#. translators: [ADMIN] Add-on editor > Options configuration option
+#. (description)
+#: includes/yith-wapo-functions.php:730
+msgid "Enable to force users to enter values that are within a specific range when all options are added together."
+msgstr "Permet d’obliger les internautes à saisir des valeurs comprises dans une plage spécifique lorsque toutes les options sont additionnées."
+
+#. translators: [ADMIN] Add-on editor > Options configuration option
+#: includes/yith-wapo-functions.php:728
+msgid "Set a min/max value among all options"
+msgstr "Définir une valeur min/max parmi toutes les options"
+
+#. translators: [ADMIN] text description on several "Options configuration"
+#. options, depending on add-on type
+#: includes/yith-wapo-functions.php:691
+msgid "fields"
+msgstr "champs"
+
+#. translators: [ADMIN] Add-on editor > Options configuration option
+#: includes/yith-wapo-functions.php:653
+msgctxt "Add-on editor panel > Add a new + add-on name (fem)"
+msgid "Add a new"
+msgstr "Ajouter"
+
+#. translators: Options configuration tab of the add-on configuration
+#: includes/yith-wapo-functions.php:441
+msgid "Options configuration"
+msgstr "Configuration des options"
+
+#: includes/class-yith-wapo.php:990
+msgctxt "[ADMIN] String added to the add-on title when is duplicated"
+msgid "Copy"
+msgstr "Copier"
+
+#. translators: [ADMIN] Add-on name.
+#. translators: [ADMIN] Add-on name (option).
+#: includes/class-yith-wapo.php:310 includes/class-yith-wapo.php:312
+msgid "HTML Separator"
+msgstr "Séparateur HTML"
+
+#. translators: [ADMIN] Add-on name.
+#. translators: [ADMIN] Add-on name (option).
+#: includes/class-yith-wapo.php:303 includes/class-yith-wapo.php:305
+msgid "HTML Text"
+msgstr "Texte HTML"
+
+#. translators: [ADMIN] Add-on name.
+#. translators: [ADMIN] Add-on name (option).
+#: includes/class-yith-wapo.php:296 includes/class-yith-wapo.php:298
+msgid "HTML Heading"
+msgstr "Titre HTML"
+
+#. translators: [ADMIN] Add-on name (option).
+#: includes/class-yith-wapo.php:284
+msgid "File uploader"
+msgstr "Outil de téléversement de fichier"
+
+#. translators: [ADMIN] Add-on name (option).
+#: includes/class-yith-wapo.php:256
+msgid "Select item"
+msgstr "Sélectionner un élément"
+
+#. translators: [ADMIN] Add-on name (option).
+#: includes/class-yith-wapo.php:228
+msgid "Input field"
+msgstr "Champ de saisie"
+
+#. translators: [FRONT] Message giving the error when the file has a hight size
+#: includes/class-yith-wapo-front.php:182
+msgid "Error - file size for %s - max %d MB allowed!"
+msgstr "Erreur - taille du fichier pour %s - max %d MB autorisé !"
+
+#. translators: [FRONT] Message giving the error when the file upload is not a
+#. supported extension
+#: includes/class-yith-wapo-front.php:180
+msgid "Error - not supported extension!"
+msgstr "Erreur - extension non prise en charge !"
+
+#. translators: [FRONT] Text to show for maximum files allowed on add-on type
+#. Upload
+#: includes/class-yith-wapo-front.php:178
+msgid "Maximum uploaded files allowed. The maximum number of files allowed is: "
+msgstr "Nombre maximum de fichiers téléversés autorisé. Le nombre maximum de fichiers autorisé est de : "
+
+#. translators: [FRONT] Message error when total of add-ons type numbers
+#. exceeds the maximum set in the configuration
+#: includes/class-yith-wapo-front.php:172
+msgid "The sum of the numbers exceeded the maximum. The maximum value is:"
+msgstr "La somme des nombres a dépassé le maximum. La valeur maximale est :"
+
+#. translators: [FRONT] Message error when total of add-ons type numbers does
+#. not exceeds the minimum set in the configuration
+#: includes/class-yith-wapo-front.php:170
+msgid "The sum of the numbers is below the minimum. The minimum value is:"
+msgstr "La somme des nombres est inférieure au minimum. La valeur minimale est :"
+
+#: includes/class-yith-wapo-front.php:141
+msgctxt "[FRONT] Percentage done when uploading a file on an add-on type File."
+msgid "done"
+msgstr "fait"
+
+#. translators: [FRONT] Error when the user select more than allowed options (
+#. min/max feature ).
+#: includes/class-yith-wapo-front.php:140
+msgid "More options than allowed have been selected"
+msgstr "Le nombre d’options sélectionnées est supérieur au nombre autorisé"
+
+#. translators: Label printed for exact selection value. %d is the number of
+#. options.
+#: includes/class-yith-wapo-front.php:138
+msgid "Please, select %d options"
+msgstr "Veuillez sélectionner %d options"
+
+#. translators: Label printed if minimum value is more than 1. %d is the number
+#. of options.
+#: includes/class-yith-wapo-front.php:136
+msgid "Please, select at least %d options"
+msgstr "Veuillez sélectionner au moins %d options"
+
+#. translators: Label printed if minimum value is 1.
+#. translators: [FRONT] Message giving the error after checking minimum and
+#. maximum quantity when adding to cart
+#: includes/class-yith-wapo-front.php:134
+#: includes/class-yith-wapo-front.php:174
+msgid "Please, select an option"
+msgstr "Veuillez sélectionner une option"
+
+#: includes/class-yith-wapo-cart.php:961
+msgctxt "[FRONT] Default label on archive pages if the product has add-ons"
+msgid "Select options"
+msgstr "Sélectionner des options"
+
+#: includes/class-yith-wapo-cart.php:741 includes/class-yith-wapo-cart.php:888
+#: includes/yith-wapo-functions.php:151 includes/yith-wapo-functions.php:153
+msgctxt "[FRONT] Show it in the cart page if the add-on has not a label set"
+msgid "Option"
+msgstr "Option"
+
+#: includes/class-yith-wapo-cart.php:632
+msgctxt "[FRONT] Label shown on YITH Bundle products when is added to cart."
+msgid "Base price"
+msgstr "Prix de base"
+
+#: includes/class-yith-wapo-cart.php:181 includes/class-yith-wapo-cart.php:276
+msgctxt "[FRONT] Redirect to cart page"
+msgid "View cart"
+msgstr "Voir le panier"
+
+#: includes/class-yith-wapo-admin.php:578
+msgid "Configure style options to customize the add-ons you create."
+msgstr "Configurez les options de style pour personnaliser les modules que vous créez."
+
+#. translators: String printed when user try to save the block and the block
+#. name is empty.
+#: includes/class-yith-wapo-admin.php:326
+msgid "Block name is required"
+msgstr "Le nom du bloc est obligatoire"
+
+#. translators: Label printed when selecting "Discount the main product price".
+#: includes/class-yith-wapo-admin.php:322
+msgid "Discount"
+msgstr "Remise"
+
+#. translators: Conditional logic - empty selected add-on.
+#. translators: String displayed in the conditional logic selector.
+#: includes/class-yith-wapo-admin.php:320
+#: views/addon-editor/addon-conditional-logic.php:28
+#: views/addon-editor/addon-conditional-logic.php:283
+msgid "Select an add-on"
+msgstr "Sélectionner un module"
+
+#. translators: %s is a line break. [ADMIN] Add-on editor > Options
+#. configuration option (description)
+#: includes/yith-wapo-functions.php:724
+msgid "Optional: set the max number of options selectable by users in this block. %s Leave empty if users can select all options without any limits."
+msgstr "Facultatif : définit le nombre maximal d’options pouvant être sélectionnées par les internautes dans ce bloc. %s Laissez vide si les internautes peuvent sélectionner toutes les options sans aucune limite."
+
+#. translators: [ADMIN] Add-on editor > Options configuration option
+#: includes/yith-wapo-functions.php:721
+msgid "Users can select a max of"
+msgstr "Les internautes peuvent sélectionner un maximum de"
+
+#. translators: [ADMIN] Add-on editor > Options configuration option
+#. (description)
+#: includes/yith-wapo-functions.php:719
+msgid "Set how many options need to be selected in order to add a product to cart."
+msgstr "Définissez le nombre d’options à sélectionner pour ajouter un produit au panier."
+
+#. translators: [ADMIN] Add-on editor > Options configuration option
+#: includes/yith-wapo-functions.php:717
+msgid "To proceed with the purchase, users have to select"
+msgstr "Pour procéder à l’achat, les internautes doivent sélectionner"
+
+#. translators: [ADMIN] Add-on editor > Options configuration option
+#. (description)
+#: includes/yith-wapo-functions.php:715
+msgid "Enable to force users to select options to proceed with the purchase."
+msgstr "Permet d’obliger les internautes à sélectionner des options pour procéder à l’achat."
+
+#. translators: [ADMIN] Add-on editor > Options configuration option
+#: includes/yith-wapo-functions.php:713
+msgid "Force user to select options of this block"
+msgstr "Obliger l’internaute à sélectionner les options de ce bloc"
+
+#. translators: [ADMIN] Add-on editor > Options configuration option
+#: includes/yith-wapo-functions.php:709
+msgid "Users can select for free"
+msgstr "Les internautes peuvent sélectionner librement"
+
+#. translators: %1$s and %2$s are line breaks.
+#: includes/yith-wapo-functions.php:704
+msgid "Enable to set a specific number of options as free. %1$s For example, the first three \"pizza toppings\" are free, included in the product price. %2$s Users will pay from the fourth topping on."
+msgstr "Permet de définir un nombre spécifique d’options comme gratuites. %1$s Par exemple, les trois premières « garnitures de pizza » sont gratuites et incluses dans le prix du produit. %2$s Les internautes paieront à partir de la quatrième garniture."
+
+#. translators: [ADMIN] Add-on editor > Options configuration option
+#: includes/yith-wapo-functions.php:701
+msgid "Set the first options selected as free"
+msgstr "Définir les premières options sélectionnées comme gratuites"
+
+#. translators: [ADMIN] Add-on editor > Options configuration option
+#: includes/yith-wapo-functions.php:699
+msgid "Choose if users can select one or multiple options."
+msgstr "Choisissez si les internautes peuvent sélectionner une ou plusieurs options."
+
+#. translators: [ADMIN] Add-on editor > Options configuration option
+#: includes/yith-wapo-functions.php:695
+msgid "Single - Users can select ONE of the available options"
+msgstr "Unique - Les internautes peuvent sélectionner une seule des options disponibles."
+
+#. translators: %s is a line break. [ADMIN] Add-on editor > Options
+#. configuration option (description)
+#: includes/yith-wapo-functions.php:686
+msgid "Optional: set the max number of fields fillable by users in this block. %s Leave empty if users can fill all fields without any limits."
+msgstr "Facultatif : définissez le nombre maximum de champs pouvant être remplis par les internautes dans ce bloc. %s Laissez vide si les internautes peuvent remplir tous les champs sans aucune limite."
+
+#. translators: [ADMIN] Add-on editor > Options configuration option
+#: includes/yith-wapo-functions.php:683
+msgid "Users can fill a max of"
+msgstr "Les internautes peuvent remplir un maximum de"
+
+#. translators: [ADMIN] Add-on editor > Options configuration option
+#. (description)
+#: includes/yith-wapo-functions.php:681
+msgid "Set how many fields need to be filled in order to add a product to cart."
+msgstr "Définissez le nombre de champs à remplir pour ajouter un produit au panier."
+
+#. translators: [ADMIN] Add-on editor > Options configuration option
+#: includes/yith-wapo-functions.php:679
+msgid "To proceed with the purchase, users have to fill"
+msgstr "Pour procéder à l’achat, les internautes doivent remplir"
+
+#. translators: [ADMIN] Add-on editor > Options configuration option
+#. (description)
+#: includes/yith-wapo-functions.php:677
+msgid "Enable to force users to fill fields to proceed with the purchase."
+msgstr "Permet d’obliger les internautes à remplir des champs pour procéder à l’achat."
+
+#. translators: [ADMIN] Add-on editor > Options configuration option
+#: includes/yith-wapo-functions.php:675
+msgid "Force user to fill fields of this block"
+msgstr "Obliger l’internaute à remplir les champs de ce bloc"
+
+#. translators: [ADMIN] Add-on editor > Options configuration option
+#. (description)
+#: includes/yith-wapo-functions.php:673
+msgid "Set how many fields users can fill for free."
+msgstr "Définissez le nombre de champs que les internautes peuvent remplir gratuitement."
+
+#. translators: [ADMIN] Add-on editor > Options configuration option
+#: includes/yith-wapo-functions.php:671
+msgid "Users can fill for free"
+msgstr "Les internautes peuvent sélectionner gratuitement"
+
+#. translators: %1$s and %2$s are line breaks.
+#: includes/yith-wapo-functions.php:666
+msgid "Enable to set a specific number of fields as free. %1$s For example, the first three \"pizza toppings\" are free, included in the product price. %2$s Users will pay from the fourth topping on."
+msgstr "Permet de définir un nombre spécifique de champs comme étant gratuits. %1$s Par exemple, les trois premières « garnitures de pizza » sont gratuites et incluses dans le prix du produit. %2$s Les internautes paieront à partir de la quatrième garniture."
+
+#. translators: [ADMIN] Add-on editor > Options configuration option
+#: includes/yith-wapo-functions.php:663
+msgid "Set the first fields selected as free"
+msgstr "Définir les premiers champs sélectionnés comme gratuits"
+
+#. translators: [ADMIN] Add-on editor > Options configuration option
+#: includes/yith-wapo-functions.php:661
+msgid "Choose if users can fill one or multiple fields."
+msgstr "Choisissez si les internautes peuvent remplir un ou plusieurs champs."
+
+#. translators: [ADMIN] Add-on editor > Options configuration option
+#: includes/yith-wapo-functions.php:659
+msgid "Multiple - Users can fill MULTIPLE fields"
+msgstr "Multiple - L’internaute peut remplir plusieurs champs"
+
+#. translators: [ADMIN] Add-on editor > Options configuration option
+#: includes/yith-wapo-functions.php:657
+msgid "Single - Users can fill ONE of the available fields"
+msgstr "Unique - Les internautes peuvent sélectionner un seul des champs disponibles"
+
+#. translators: 1: quantity in stock 2: current quantity
+#: includes/class-yith-wapo-cart.php:183 includes/class-yith-wapo-cart.php:278
+msgctxt "[FRONT] If sum of already add-ons type Products added to cart and the current stock selected are higher than expected"
+msgid "You cannot add that amount to the cart &mdash; we have %1$s in stock and you already have %2$s in your cart."
+msgstr "Vous ne pouvez pas ajouter ce montant au panier - nous avons %1$s en stock et vous avez déjà %2$s dans votre panier."
+
+#. translators: 1: product name 2: quantity in stock
+#: includes/class-yith-wapo-cart.php:155 includes/class-yith-wapo-cart.php:250
+msgctxt "[FRONT] When add-on type Product is added to cart with more amount than allowed"
+msgid "You cannot add that amount of &quot;%1$s&quot; to the cart because there is not enough stock (%2$s remaining)."
+msgstr "Vous ne pouvez pas ajouter cette quantité de « %1$s » au panier car il n’y a pas assez de stock (reste %2$s)."
+
+#. translators: %s: product name
+#: includes/class-yith-wapo-cart.php:146 includes/class-yith-wapo-cart.php:241
+msgctxt "[FRONT] Error message when an add-on type Product is out of stock"
+msgid "You cannot add &quot;%s&quot; to the cart because the product is out of stock."
+msgstr "Vous ne pouvez pas ajouter « %s » au panier car le produit est en rupture de stock."
+
+#. translators: Get premium tab string.
+#: includes/class-yith-wapo-admin.php:263
+msgid "Regular updates, translations, and technical support"
+msgstr "Mises à jour régulières, traductions et support technique"
+
+#. translators: Get premium tab string description.
+#: includes/class-yith-wapo-admin.php:259
+msgid "The premium version of the plugin includes hundreds of options for configuring how add-ons work in your products. For each set of options, you can define, for example, which ones to make mandatory or set the minimum or maximum number of options the user can select to proceed with the purchase. You can also customize the style of the options and choose how to display them on the page (one below the other, in a horizontal grid, etc.)."
+msgstr "La version premium de l’extension comprend des centaines d’options permettant de configurer le fonctionnement des modules dans vos produits. Pour chaque série d’options, vous pouvez définir, par exemple, celles qui sont obligatoires ou le nombre minimum ou maximum d’options que l’internaute peut sélectionner pour procéder à l’achat. Vous pouvez également personnaliser le style des options et choisir la manière de les afficher sur la page (les unes en dessous des autres, dans une grille horizontale, etc.)."
+
+#. translators: Get premium tab string.
+#: includes/class-yith-wapo-admin.php:257
+msgid "Hundreds of advanced options to manage product configuration exactly how you want it to work"
+msgstr "Des centaines d’options avancées pour gérer la configuration du produit exactement comme vous le souhaitez"
+
+#. translators: Get premium tab string.
+#: includes/class-yith-wapo-admin.php:232
+msgid "Text labels, images, and icons"
+msgstr "Libellés de texte, images et icônes"
+
+#. translators: Get premium tab string description.
+#: includes/class-yith-wapo-admin.php:228
+msgid "Insert a textarea if you need customers to enter a custom text during the product configuration (you can also limit the number of characters allowed) and use the numberic field to allow them to select a quantity."
+msgstr "Insérez une zone de texte si vous souhaitez que les clients saisissent un texte personnalisé lors de la configuration du produit (vous pouvez également limiter le nombre de caractères autorisés) et utilisez le champ numérique pour leur permettre de sélectionner une quantité."
+
+#. translators: Get premium tab string.
+#: includes/class-yith-wapo-admin.php:226
+msgid "Textarea and quantity selector field"
+msgstr "Zone de texte et champ de sélection de la quantité"
+
+#. translators: Get premium tab string.
+#: includes/class-yith-wapo-admin.php:220
+msgid "Color, texture, or pattern samples + the option to select the color"
+msgstr "Échantillons de couleurs, de textures ou de motifs + possibilité de sélectionner la couleur"
+
+#. translators: Get premium tab string description.
+#: includes/class-yith-wapo-admin.php:216
+msgid "In the free version, the options are shown to all users. With the premium version, you can instead choose whether to show them only to guest users, users with an account on the shop, or specific user roles. "
+msgstr "Dans la version gratuite, les options sont affichées pour tous les internautes. Avec la version premium, vous pouvez choisir de les afficher uniquement aux internautes invités, à ceux disposant d’un compte sur la boutique ou à des rôles spécifiques. "
+
+#. translators: Get premium tab string.
+#: includes/class-yith-wapo-admin.php:214
+msgid "Choose which users to show the options to  "
+msgstr "Choisir les internautes à qui afficher les options  "
+
+#. translators: [ADMIN] Add-on editor > Options configuration option
+#: includes/class-yith-wapo-addon.php:848
+msgid "Enable to force the user to select an option of the select to proceed with the purchase."
+msgstr "Permet de forcer l’internaute à sélectionner une option de la liste déroulante pour procéder à l’achat."
+
+#. translators: [ADMIN] Add-on editor > Options configuration option
+#: includes/class-yith-wapo-addon.php:837
+msgid "Force user to select an option"
+msgstr "Forcer l’internaute à sélectionner une option"
+
+#: plugin-fw/includes/class-yit-plugin-panel-woocommerce.php:500
+#: plugin-fw/includes/class-yit-plugin-panel.php:1562
+msgid "Options saved!"
+msgstr "Options enregistrées !"
+
+#: plugin-fw/templates/panel/v2/your-store-tools-tab.php:35
+msgctxt "Plugin in \"Your Store Tools\" tab"
+msgid "Best choice"
+msgstr "Meilleur choix"
+
+#: plugin-fw/templates/panel/v2/premium-tab.php:24
+msgctxt "Premium Tab"
+msgid "Check out the advanced features you can get by upgrading to premium!"
+msgstr "Découvrez les fonctionnalités avancées que vous pouvez obtenir en mettant à niveau vers la version premium !"
+
+#: plugin-fw/templates/panel/v2/premium-tab.php:22
+msgctxt "Premium Tab"
+msgid "Upgrade to unlock premium features"
+msgstr "Mise à niveau pour débloquer les fonctionnalités premium"
+
+#: plugin-fw/templates/panel/premium-tab-content.php:124
+msgctxt "Premium Tab"
+msgid "Verified Customer"
+msgstr "Client vérifié/cliente vérifiée"
+
+#: plugin-fw/templates/panel/premium-tab-content.php:98
+msgctxt "Premium Tab"
+msgid "100% Money-back guarantee"
+msgstr "Garantie de remboursement à 100%"
+
+#: plugin-fw/templates/panel/premium-tab-content.php:97
+msgctxt "Premium Tab"
+msgid "Technical support"
+msgstr "Support technique"
+
+#: plugin-fw/templates/panel/premium-tab-content.php:96
+msgctxt "Premium Tab"
+msgid "Regular updates"
+msgstr "Mises à jour régulières"
+
+#: plugin-fw/templates/panel/premium-tab-content.php:95
+msgctxt "Premium Tab"
+msgid "Advanced features"
+msgstr "Fonctionnalités avancées"
+
+#: plugin-fw/templates/panel/premium-tab-content.php:83
+msgctxt "Premium Tab"
+msgid "Upgrade now to unlock premium features"
+msgstr "Mettre à niveau maintenant pour débloquer les fonctionnalités premium"
+
+#. translators: %s is the discount percentage.
+#: plugin-fw/templates/panel/premium-tab-content.php:79
+msgctxt "Premium Tab"
+msgid "Upgrade now to get a %s%% off"
+msgstr "Mettez vous à niveau maintenant pour bénéficier d’une réduction de %s%%."
+
+#: plugin-fw/templates/panel/v2/your-store-tools-tab.php:21
+msgid "Additional tools to improve UX, increase conversions, and loyalize customers."
+msgstr "Des outils supplémentaires pour améliorer l’UX, augmenter les conversions et fidéliser les clients et clientes."
+
+#: plugin-fw/templates/panel/v2/your-store-tools-tab.php:51
+msgctxt "Plugin in \"Your Store Tools\" tab"
+msgid "Get it"
+msgstr "L’obtenir"
+
+#: plugin-fw/templates/panel/v2/your-store-tools-tab.php:46
+msgctxt "Plugin in \"Your Store Tools\" tab"
+msgid "Active"
+msgstr "Active"
+
+#: plugin-fw/templates/panel/v2/your-store-tools-tab.php:17
+msgid "#1 Independent Seller of <mark>WooCommerce plugins</mark>"
+msgstr "Vendeur indépendant n°1 d’<mark>extensions WooCommerce</mark>"
+
+#: plugin-fw/templates/fields/ajax-orders.php:16
+msgid "Search for an order..."
+msgstr "Rechercher une commande…"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:992
+msgctxt "Panel tab name"
+msgid "Your Store Tools"
+msgstr "Les outils de votre boutique"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:1174
+msgid "Learn what you can really do with this powerful tool"
+msgstr "Découvrez ce que vous pouvez vraiment faire avec cet outil puissant"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:1184
+msgid "Watch our <mark>\"First Steps\" video</mark>"
+msgstr "Visionnez notre vidéo <mark>« Premiers pas »</mark>"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:1185
+msgid "See how it works before you start using it"
+msgstr "Voyez comment cela fonctionne avant de commencer à l’utiliser"
+
+#: plugin-fw/includes/class-yith-bh-onboarding.php:85
+msgid "It is not possible save the options"
+msgstr "Il n’est pas possible d’enregistrer les options"
+
+#. translators: %s is the plugin version.
+#: plugin-fw/templates/panel/welcome-modals/update.php:44
+msgid "What's new in version %s"
+msgstr "Nouveautés de la version %s"
+
+#: plugin-fw/templates/panel/welcome-modals/welcome.php:30
+msgid "Thank you for using our plugin"
+msgstr "Merci d’utiliser notre extension"
+
+#. translators: %s is the number of steps.
+#: plugin-fw/templates/panel/welcome-modals/welcome.php:45
+msgid "Start with these %s steps:"
+msgstr "Commencez par ces %s étapes :"
+
+#: plugin-fw/templates/panel/welcome-modals/update.php:64
+#: plugin-fw/templates/panel/welcome-modals/welcome.php:60
+msgid "Got it, close this window"
+msgstr "J’ai compris, fermer cette fenêtre"
+
+#: plugin-fw/templates/panel/welcome-modals/update.php:49
+msgid "Check the changelog >"
+msgstr "Consulter le journal des modifications >"
+
+#. translators: %s is the plugin version.
+#: plugin-fw/templates/panel/welcome-modals/update.php:34
+msgid "is successfully updated to version %s."
+msgstr "est bien mis à jour vers la version %s."
+
+#: plugin-fw/templates/panel/premium-tab-content.php:66
+msgctxt "Premium Tab"
+msgid "Check the premium features >"
+msgstr "Découvrez les fonctionnalités premium >"
+
+#: plugin-fw/templates/panel/help-tab.php:238
+msgctxt "Help tab support"
+msgid "Call or chat 24/7 with our support agents, or let our experts build your site."
+msgstr "Appelez ou discutez 24h/24 et 7j/7 avec nos agents de support, ou laissez nos experts créer votre site."
+
+#: plugin-fw/templates/panel/help-tab.php:220
+msgctxt "Help tab documentation"
+msgid "to learn how it works from the basics."
+msgstr "pour apprendre comment cela fonctionne depuis les bases."
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:1173
+msgid "Read the <mark>plugin documentation</mark>"
+msgstr "Lire la <mark>documentation de l’extension</mark>"
+
+#. translators: 1. Plugin name.
+#: plugin-fw/includes/class-yit-plugin-panel.php:920
+msgctxt "Help tab default title"
+msgid "Thank you for using %s!"
+msgstr "Merci d’utiliser %s !"
+
+#: plugin-fw/templates/panel/help-tab.php:235
+msgctxt "Help tab support"
+msgid "From DIY to full-service help"
+msgstr "Du bricolage à l’assistance complète"
+
+#: plugin-fw/templates/panel/help-tab.php:241
+msgctxt "Help tab support"
+msgid "Yes, I need help"
+msgstr "Oui, j’ai besoin d’aide"
+
+#: plugin-fw/templates/panel/help-tab.php:231
+#: plugin-fw/templates/panel/help-tab.php:233
+msgctxt "Help tab support"
+msgid "Need some help?"
+msgstr "Besoin d’aide ?"
+
+#: plugin-fw/templates/panel/help-tab.php:216
+#: plugin-fw/templates/panel/help-tab.php:218
+#: plugin-fw/templates/panel/help-tab.php:223
+msgctxt "Help tab documentation"
+msgid "Read the plugin documentation"
+msgstr "Lire la documentation de l’extension"
+
+#. translators: 1. Plugin(s) name(s).
+#: plugin-fw/yit-plugin.php:282
+msgid "%s was deactivated as you're running an higher tier version of the same plugin."
+msgid_plural "%s were deactivated as you're running higher tier versions of the same plugins."
+msgstr[0] "%s a été désactivé car vous exécutez une version de niveau supérieur de l’extension."
+msgstr[1] "%s ont été désactivés car vous exécutez une version de niveau supérieur des extensions."
+
+#: plugin-fw/templates/fields/ajax-terms.php:41
+msgid "Search for a category..."
+msgstr "Rechercher une catégorie…"
+
+#: plugin-fw/templates/fields/ajax-posts.php:41
+msgid "Search for a post..."
+msgstr "Rechercher une publication…"
+
+#: plugin-fw/templates/fields/ajax-customers.php:41
+msgid "Search for a customer..."
+msgstr "Rechercher un client…"
+
+#: plugin-fw/templates/panel/help-tab.php:142
+msgctxt "Help tab Watch video tutorials link"
+msgid "to see some helpful use cases."
+msgstr "pour voir quelques cas d’utilisation utiles."
+
+#: plugin-fw/templates/panel/help-tab.php:129
+msgctxt "Help tab Read Documentation link"
+msgid "to learn how the plugin works from the basics."
+msgstr "pour apprendre comment fonctionne l’extension à partir depuis ls bases."
+
+#: plugin-fw/templates/panel/premium-tab-content.php:102
+msgctxt "Premium Tab"
+msgid "Get the premium version"
+msgstr "Obtenir la version premium"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:977
+msgctxt "Premium tab name"
+msgid "Get premium"
+msgstr "Obtenir la version premium"
+
+#: plugin-fw/templates/panel/premium-tab-content.php:62
+msgctxt "Premium Tab"
+msgid "Check the free vs premium features >"
+msgstr "Vérifiez les fonctionnalités gratuites vs premium >"
+
+#: plugin-fw/templates/panel/premium-tab-content.php:59
+msgctxt "Premium Tab"
+msgid "...and so much more!"
+msgstr "…et bien plus encore !"
+
+#. translators: Add-on editor panel.
+#: views/addon-editor/addon-editor.php:145
+msgid "Enter a description to show before the options."
+msgstr "Saisissez un titre à afficher avant les options."
+
+#: plugin-fw/templates/sysinfo/tabs/main.php:61
+msgid "YITH Plugin Framework Version"
+msgstr "Version de l’extension YITH Framework"
+
+#. translators: %s is the name of the plugin that is loading the framework.
+#: plugin-fw/templates/sysinfo/tabs/main.php:66
+msgid "loaded by %s"
+msgstr "chargé par %s"
+
+#: plugin-fw/templates/sysinfo/tabs/db-info.php:34
+msgid "Total Database Size"
+msgstr "Taille totale de la base de données"
+
+#: plugin-fw/templates/sysinfo/tabs/db-info.php:38
+msgid "Database Data Size"
+msgstr "Taille de la base de données"
+
+#: plugin-fw/templates/sysinfo/tabs/db-info.php:42
+msgid "Database Index Size"
+msgstr "Taille de l’index"
+
+#: plugin-fw/templates/sysinfo/tabs/db-info.php:46
+msgid "Database Free Size"
+msgstr "Taille libre de la base de données"
+
+#. Translators: %1$f: Table size, %2$f: Index size, %3$f: Free size, %4$s
+#. Engine.
+#: plugin-fw/templates/sysinfo/tabs/db-info.php:57
+msgid "Data: %1$.2fMB | Index: %2$.2fMB | Free: %3$.2fMB | Engine: %4$s"
+msgstr "Données : %1$.2fMB | Index : %2$.2fMB | Libre : %3$.2fMB | Moteur : %4$s"
+
+#. translators: Label printed in the add-on type Date, when activating the
+#. timepicker.
+#: includes/class-yith-wapo-front.php:130
+msgid "Set time"
+msgstr "Définir l’heure"
+
+#. Translators: %s: Codex link.
+#: plugin-fw/templates/sysinfo/tabs/db-info.php:19
+msgid "WordPress requirements"
+msgstr "Prérequis WordPress"
+
+#: plugin-fw/templates/sysinfo/tabs/db-info.php:28
+msgid "MySQL version"
+msgstr "Version de MySQL"
+
+#: plugin-fw/templates/sysinfo/tabs/db-info.php:24
+msgid "Database Info"
+msgstr "Information de base de données"
+
+#: templates/front/block.php:80
+msgid "No title"
+msgstr "Aucun titre"
+
+#. translators: [FRONT] [FRONT] Text to show when an option is required
+#: includes/class-yith-wapo-front.php:176
+msgid "This option is required."
+msgstr "Cette option est nécéssaire."
+
+#: views/addons/html_heading.php:23
+msgid "Heading text"
+msgstr "Texte du titre"
+
+#: views/addons/html_heading.php:33
+msgid "Heading type"
+msgstr "Type d’en-tête"
+
+#: views/addons/html_separator.php:23
+msgid "Separator style"
+msgstr "Style du séparateur"
+
+#: views/addons/html_separator.php:34
+msgid "Simple Border"
+msgstr "Bordure simple"
+
+#: views/addons/html_separator.php:35
+msgid "Double Border"
+msgstr "Double bordure"
+
+#: views/addons/html_separator.php:36
+msgid "Dotted Border"
+msgstr "Bordure en pointillé"
+
+#: views/addons/html_separator.php:37
+msgid "Dashed Border"
+msgstr "Bordure discontinue"
+
+#: views/addons/html_separator.php:38
+msgid "Empty Space"
+msgstr "Espace vide"
+
+#: views/addons/html_separator.php:76
+msgid "Height"
+msgstr "Hauteur"
+
+#: views/addons/html_separator.php:99
+msgid "Border color"
+msgstr "Couleur de bordure"
+
+#: views/addons/html_text.php:23
+msgid "Enter your text content"
+msgstr "Saisir votre contenu textuel"
+
+#: views/addons/text.php:54
+msgid "Number of characters"
+msgstr "Nombre de caractères"
+
+#. translators: [ADMIN] Edit block page
+#: views/block-editor/block-editor.php:31
+msgid "Edit block"
+msgstr "Modifier le bloc"
+
+#. translators: [ADMIN] Edit block page
+#: views/block-editor/block-editor.php:43
+msgid "Block name"
+msgstr "Nom du bloc"
+
+#. translators: [ADMIN] Edit block page
+#: views/block-editor/block-editor.php:78
+msgid "Block priority level"
+msgstr "Niveau de priorité du bloc"
+
+#. translators: [ADMIN] Edit block page
+#: views/block-editor/block-editor.php:105
+msgid "Set the priority level assigned to this rule. The priority level is important to arrange the different rules that apply to the same products. 1 is the highest priority level."
+msgstr "Définir le niveau de priorité affecté à cette règle. Le niveau de priorité est important pour organiser les différentes règles qui s’appliquent aux mêmes produits. 1 a le niveau de priorité le plus élevé."
+
+#. translators: [ADMIN] Edit block page > block not empty
+#: views/block-editor/block-editor.php:279
+msgid "Start to add your options to this block!"
+msgstr "Commencer à ajouter des options à ce bloc !"
+
+#. translators: [ADMIN] Edit block page
+#: views/block-editor/block-rules.php:31
+msgid "Show this block of options in"
+msgstr "Afficher ce bloc d’options dans"
+
+#. translators: Blocks table - Show on column.
+#. translators: Block options page, "Show on" column.
+#. translators: [ADMIN] Edit block page
+#: includes/admin-tables/class-yith-wapo-blocks-list-table.php:113
+#: includes/admin-tables/class-yith-wapo-blocks-list-table.php:137
+#: views/block-editor/block-rules.php:52
+msgid "All products"
+msgstr "Tous les produits"
+
+#. translators: [ADMIN] Block list page (empty table)
+#: views/block-editor/blocks-table.php:34
+#: views/block-editor/blocks-table.php:69
+msgid "Add block"
+msgstr "Ajouter un bloc"
+
+#. translators: [ADMIN] Edit block page.
+#: views/block-editor/block-rules.php:74
+msgid "Show in products"
+msgstr "Afficher sur les produits :"
+
+#. translators: [ADMIN] Edit block page
+#: views/block-editor/block-rules.php:112
+msgid "Show in categories"
+msgstr "Afficher dans les catégories :"
+
+#. translators: Column name in the block list.
+#: includes/admin-tables/class-yith-wapo-blocks-list-table.php:54
+msgid "Active"
+msgstr "Actif"
+
+#. translators: [ADMIN] Edit block page (Move action).
+#: views/block-editor/block-editor.php:259
+msgid "Move"
+msgstr "Déplacer"
+
+#. translators: [ADMIN] Block list page (empty table)
+#: views/block-editor/blocks-table.php:62
+msgid "Now build your first block!"
+msgstr "Construisez votre premier bloc maintenant !"
+
+#. translators: general add-on option.
+#: views/addon-editor/option-common-fields.php:92
+msgid "Add image"
+msgstr "Ajouter une image"
+
+#. translators: general add-on option.
+#: views/addon-editor/option-common-fields.php:112
+msgid "Enable to upload an image for this option."
+msgstr "Activer pour téléverser une image pour cette option."
+
+#. translators: general add-on option.
+#: views/addon-editor/option-common-fields.php:169
+msgid "Product price doesn't change - set option as free"
+msgstr "Le prix du produit ne change pas - Définir l’option comme gratuite"
+
+#. translators: Label printed when selecting other option than "Discount the
+#. main product price".
+#. translators: general add-on option.
+#: includes/class-yith-wapo-admin.php:324
+#: views/addon-editor/option-common-fields.php:201
+msgid "Option cost"
+msgstr "Coût de l’option"
+
+#: views/addon-editor/option-common-fields.php:233
+msgid "Percentage"
+msgstr "Pourcentage"
+
+#. translators: Add-on editor panel.
+#: views/addon-editor/addon-editor.php:292
+msgid "Selected by default"
+msgstr "Sélectionné par défaut"
+
+#. translators: [ADMIN] Edit block page
+#: views/block-editor/block-rules.php:142
+msgid "Choose in which product categories to show this block."
+msgstr "Choisissez dans quelles catégories de produits afficher ce bloc."
+
+#. translators: [ADMIN] Edit block page
+#: views/block-editor/block-rules.php:132
+msgid "Search for categories"
+msgstr "Rechercher des catégories"
+
+#. translators: [ADMIN] Edit block page
+#: views/block-editor/block-editor.php:68
+msgid "Enter a name to identify this block of options."
+msgstr "Saisissez un nom pour identifier ce bloc d’options."
+
+#. translators: [ADMIN] Edit block page
+#: views/block-editor/block-editor.php:31
+msgid "Add new block"
+msgstr "Ajouter un bloc"
+
+#: views/addons/text.php:34
+msgid "Limit input characters"
+msgstr "Limiter la saisie de caractères"
+
+#: views/addons/html_separator.php:116
+msgid "Set the color for the separator border."
+msgstr "Définissez la couleur de la bordure du séparateur."
+
+#: views/addons/html_separator.php:92
+msgid "Set the height value of the separator."
+msgstr "Définissez la hauteur du séparateur."
+
+#: views/addons/html_separator.php:69
+msgid "Set the width value of the separator."
+msgstr "Définissez la largeur du séparateur."
+
+#: views/addons/html_separator.php:45
+msgid "Choose the separator style."
+msgstr "Choisissez le style du séparateur."
+
+#: views/addons/html_heading.php:79
+msgid "Choose the color of this heading."
+msgstr "Choisissez la couleur de ce titre."
+
+#: views/addons/html_heading.php:62
+msgid "Heading color"
+msgstr "Couleur du titre"
+
+#: views/addons/html_heading.php:56
+msgid "Choose the heading type."
+msgstr "Choisissez le type de titre."
+
+#: views/addons/html_heading.php:26
+msgid "Enter a text for this heading."
+msgstr "Saisissez un texte pour ce titre."
+
+#: views/addons/text.php:61
+msgid "MAX"
+msgstr "Max."
+
+#: views/addons/text.php:57
+msgid "MIN"
+msgstr "Min."
+
+#. translators: [ADMIN] Block list page (empty table)
+#: views/block-editor/blocks-table.php:57
+msgid "You have no options blocks created yet."
+msgstr "Vous n’avez pas encore créé de bloc d’options."
+
+#. translators: [ADMIN] Edit block page.
+#: views/block-editor/block-rules.php:103
+msgid "Choose in which products to show this block."
+msgstr "Choisissez dans quels produits afficher ce bloc."
+
+#. translators: [ADMIN] Edit block page
+#: views/block-editor/block-rules.php:54
+msgid "Specific products or categories"
+msgstr "Produits ou catégories spécifiques"
+
+#. translators: [ADMIN] Options tab.
+#: includes/class-yith-wapo-admin.php:557
+msgid "Options Blocks"
+msgstr "Options des blocs"
+
+#. translators: [ADMIN] Options tab.
+#: includes/class-yith-wapo-admin.php:566
+msgid "General Settings"
+msgstr "Réglages généraux"
+
+#. translators: [ADMIN] Options tab.
+#: includes/class-yith-wapo-admin.php:574
+msgid "Style"
+msgstr "Style"
+
+#. translators: [FRONT] Add-ons table shown on the product page
+#: templates/front/addons-price-table.php:21
+msgid "Total options"
+msgstr "Total des options"
+
+#. translators: [ADMIN] Add-on name.
+#: includes/class-yith-wapo.php:195 views/addons/html_separator.php:19
+msgid "Separator"
+msgstr "Séparateur"
+
+#. translators: [ADMIN] Add-on name.
+#. translators: [ADMIN] Add-on name (option).
+#: includes/class-yith-wapo.php:261 includes/class-yith-wapo.php:263
+msgid "Label or image"
+msgstr "Libellé ou image"
+
+#. translators: [ADMIN] Add-on name.
+#. translators: [ADMIN] Add-on name (option).
+#: includes/class-yith-wapo.php:268 includes/class-yith-wapo.php:270
+msgid "Product"
+msgstr "Produit"
+
+#. translators: Label printed in the add-on type Date, when activating the
+#. timepicker.
+#. translators: Add-on editor panel.
+#. translators: [ADMIN] Edit block page > Save button
+#: includes/class-yith-wapo-front.php:132
+#: plugin-fw/templates/bh-onboarding/onboarding-tabs.php:60
+#: views/addon-editor/addon-editor.php:386
+#: views/block-editor/block-editor.php:307
+msgid "Save"
+msgstr "Enregistrer"
+
+#. translators: [ADMIN] General Settings tab option
+#: plugin-options/settings/general-options.php:18
+msgid "General options"
+msgstr "Options générales"
+
+#. translators: [ADMIN] General Settings tab option
+#: plugin-options/settings/general-options.php:25
+msgid "Options position in product page"
+msgstr "Position des options dans la page produit"
+
+#. translators: [ADMIN] General Settings tab option
+#: plugin-options/settings/general-options.php:35
+msgid "After \"Add to cart\""
+msgstr "Après « Ajouter au panier »"
+
+#. translators: [ADMIN] General Settings tab option
+#: plugin-options/settings/general-options.php:51
+msgid "\"Add to cart\" button"
+msgstr "Bouton « Ajouter au panier »"
+
+#. translators: [ADMIN] General Settings tab option
+#: plugin-options/settings/general-options.php:72
+msgid "Change the product base price with the calculated total"
+msgstr "Modifier le prix de base du produit avec le total calculé"
+
+#. translators: [ADMIN] General Settings tab option
+#: plugin-options/settings/general-options.php:74
+msgid "Enable to replace the product base price (below the title) with the newly calculated total of the selected options."
+msgstr "Activer pour remplacer le prix de base du produit (sous le titre) par le nouveau total calculé des options choisies."
+
+#. translators: [ADMIN] General Settings tab option
+#: plugin-options/settings/general-options.php:82
+msgid "Hide \"Add to cart\" until the required options are selected"
+msgstr "Masquer « Ajouter au panier » jusqu’à ce que les options nécessaires soient choisies"
+
+#. translators: [ADMIN] General Settings tab option
+#: plugin-options/settings/general-options.php:84
+msgid "Enable to hide the \"Add to cart\" button until the user selects the required options."
+msgstr "Activer le bouton « Ajouter au panier » jusqu’à ce que l’internaute sélectionne les options nécessaires."
+
+#. translators: [ADMIN] General Settings tab option
+#: plugin-options/settings/general-options.php:92
+msgid "Total price box"
+msgstr "Boîte de prix total"
+
+#. translators: [ADMIN] General Settings tab option
+#: plugin-options/settings/general-options.php:103
+msgid "Show the final total but hide options total only if the value is 0"
+msgstr "Afficher le total final mais masquer le total des options uniquement si la valeur est 0"
+
+#. translators: [ADMIN] General Settings tab option
+#: plugin-options/settings/general-options.php:105
+msgid "Show only the final total"
+msgstr "Afficher uniquement le total final"
+
+#. translators: [ADMIN] General Settings tab option
+#: plugin-options/settings/general-options.php:107
+msgid "Hide price box on the product page"
+msgstr "Masquer la boîte de prix sur la page du produit"
+
+#. translators: [ADMIN] General Settings tab option
+#: plugin-options/settings/general-options.php:113
+msgid "Hide titles and images of options groups"
+msgstr "Masquer les titres et les images des groupes d’options"
+
+#. translators: [ADMIN] General Settings tab option
+#: plugin-options/settings/general-options.php:123
+msgid "Hide images of the single options"
+msgstr "Masquer les images des options uniques"
+
+#: plugin-options/settings-options.php:19
+msgctxt "Admin title of tab"
+msgid "General options"
+msgstr "Options générales"
+
+#: plugin-options/settings-options.php:23
+msgctxt "Admin title of tab"
+msgid "Cart & Order"
+msgstr "Panier & Commande"
+
+#. translators: [ADMIN] General Settings tab title.
+#: plugin-options/settings/cart-options.php:18
+msgid "Cart & Order options"
+msgstr "Options de panier et de commande"
+
+#. translators: [ADMIN] General Settings > Cart & Order sub-tab option
+#: plugin-options/settings/cart-options.php:53
+msgid "Show the replacement image in the cart"
+msgstr "Afficher l’image de remplacement dans le panier"
+
+#. translators: [ADMIN] General Settings > Cart & Order sub-tab option
+#: plugin-options/settings/cart-options.php:64
+msgid "Hide options in the order email"
+msgstr "Masquer les options dans l’e-mail de commande"
+
+#. translators: [ADMIN] Style tab option
+#: plugin-options/style-options.php:28
+msgid "Block titles"
+msgstr "Titres de bloc"
+
+#. translators: [ADMIN] Style tab option
+#: plugin-options/style-options.php:47
+msgid "Block background"
+msgstr "Couleur d’arrière-plan du bloc"
+
+#. translators: [ADMIN] Style tab option
+#: plugin-options/style-options.php:65
+msgid "Block padding"
+msgstr "Marge interne du bloc"
+
+#. translators: [ADMIN] Style tab option
+#: plugin-options/style-options.php:109
+msgid "Theme style"
+msgstr "Style du thème"
+
+#. translators: [ADMIN] Style tab option
+#: plugin-options/style-options.php:111
+msgid "Custom style"
+msgstr "Style personnalisé"
+
+#. translators: [ADMIN] Style tab option
+#: plugin-options/style-options.php:128
+msgid "Square"
+msgstr "Carré"
+
+#. translators: [ADMIN] Style tab option
+#: plugin-options/style-options.php:140
+msgid "Accent color"
+msgstr "Couleur d’accentuation"
+
+#. translators: [ADMIN] Style tab option
+#: plugin-options/style-options.php:163
+msgid "Form border-color"
+msgstr "Couleur de bordure du formulaire"
+
+#. translators: [ADMIN] Style tab option
+#: plugin-options/style-options.php:188
+msgid "Set the label font size in pixel."
+msgstr "Définir la taille de la police du libellé en pixels."
+
+#. translators: [ADMIN] Style tab option
+#: plugin-options/style-options.php:202
+msgid "Description font size"
+msgstr "Taille de la police de description"
+
+#. translators: [ADMIN] Add-on editor > Options configuration option
+#: includes/class-yith-wapo-addon.php:794
+msgid "Selection type"
+msgstr "Type de sélection"
+
+#: views/addon-editor/addon-conditional-logic.php:316
+msgid "Add rule"
+msgstr "Ajouter une règle"
+
+#: views/addon-editor/addon-conditional-logic.php:137
+msgid "Set conditions to show or hide this set of options"
+msgstr "Définir des conditions pour afficher ou masquer cet ensemble d’options"
+
+#: views/addon-editor/addon-conditional-logic.php:151
+msgid "Enable to set rules to hide or show the options."
+msgstr "Activer pour définir des règles afin de masquer ou d’afficher les options."
+
+#: views/addon-editor/addon-conditional-logic.php:182
+msgid "Display rules"
+msgstr "Règles d’affichage"
+
+#: views/addon-editor/addon-conditional-logic.php:195
+msgid "Show"
+msgstr "Afficher"
+
+#: views/addon-editor/addon-conditional-logic.php:196
+msgid "Hide"
+msgstr "Masquer"
+
+#: views/addon-editor/addon-conditional-logic.php:258
+msgid "All of these rules"
+msgstr "Toutes ces règles"
+
+#: views/addon-editor/addon-conditional-logic.php:290
+msgid "is"
+msgstr "est"
+
+#: views/addon-editor/addon-conditional-logic.php:306
+msgid "Empty"
+msgstr "Vide"
+
+#: views/addon-editor/addon-conditional-logic.php:307
+msgid "Not empty"
+msgstr "Non vide"
+
+#. translators: When creating a new add-on, you can go back to type choice.
+#: views/addon-editor/addon-editor.php:70
+msgid "back to the type choice"
+msgstr "retour au choix du type"
+
+#. translators: Conditional logic tab of the add-on configuration
+#: includes/yith-wapo-functions.php:447
+msgid "Conditional logic"
+msgstr "Logique conditionnelle"
+
+#. translators: Add-on editor panel.
+#: views/addon-editor/addon-editor.php:399
+msgid "Add HTML element"
+msgstr "Ajouter un élément HTML"
+
+#. translators: Add-on editor panel.
+#: views/addon-editor/addon-editor.php:437
+msgid "Add option for the user"
+msgstr "Ajouter une option pour l’utilisateur/utilisatrice"
+
+#. translators: Add-on editor panel.
+#: views/addon-editor/addon-editor.php:126
+msgid "Enter a title to show before the options."
+msgstr "Saisissez un titre à afficher avant les options."
+
+#. translators: Populate options tab of the add-on configuration
+#: includes/yith-wapo-functions.php:435
+msgid "Populate options"
+msgstr "Renseigner les options"
+
+#: views/addon-editor/addon-conditional-logic.php:305
+msgid "Not selected"
+msgstr "Non sélectionné"
+
+#: views/addon-editor/addon-conditional-logic.php:265
+msgid "match"
+msgstr "correspond"
+
+#: views/addon-editor/addon-conditional-logic.php:259
+msgid "Any of these rules"
+msgstr "L’une ou l’autre de ces règles"
+
+#. translators: [ADMIN] Edit block page
+#: views/block-editor/block-rules.php:64
+msgid "Choose to show these options in all products or only specific products or categories."
+msgstr "Choisissez d’afficher ces options sur tous les produits ou uniquement sur des produits ou dans des catégories spécifiques."
+
+#. translators: [ADMIN] Add-on editor > Options configuration option
+#: includes/yith-wapo-functions.php:697
+msgid "Multiple - Users can select MULTIPLE options"
+msgstr "Multiple - L’internaute peut sélectionner plusieurs options"
+
+#. translators: [ADMIN] Add-on editor > Options configuration option
+#. (description)
+#: includes/yith-wapo-functions.php:711
+msgid "Set how many options users can select for free."
+msgstr "Définissez le nombre d’options que l’internaute peut choisir gratuitement."
+
+#. translators: [ADMIN] Style tab option
+#: plugin-options/style-options.php:186
+msgid "Label font size"
+msgstr "Taille de police du libellé"
+
+#. translators: [ADMIN] Style tab option
+#: plugin-options/style-options.php:165
+msgid "Set the color of the form borders."
+msgstr "Définissez la couleur des bordures du formulaire."
+
+#. translators: [ADMIN] Style tab option
+#: plugin-options/style-options.php:142
+msgid "Set the accent color to use for the selected options."
+msgstr "Définissez la couleur d’accentuation à utiliser pour les options choisies."
+
+#. translators: [ADMIN] Style tab option
+#: plugin-options/style-options.php:126
+msgid "Rounded"
+msgstr "Arrondi"
+
+#. translators: [ADMIN] Style tab option
+#: plugin-options/style-options.php:120
+msgid "Choose the style for the checkbox."
+msgstr "Choisissez le style de la case à cocher."
+
+#. translators: [ADMIN] Style tab option
+#: plugin-options/style-options.php:118
+msgid "Checkbox style"
+msgstr "Style de case à cocher"
+
+#. translators: [ADMIN] Style tab option
+#: plugin-options/style-options.php:103
+msgid "Choose the general style for form: checkbox, radio, select, input field, textarea, etc."
+msgstr "Choisissez le style général du formulaire : case à cocher, radio, liste déroulante, champ de saisie, zone de texte, etc."
+
+#. translators: [ADMIN] Style tab option
+#: plugin-options/style-options.php:93 plugin-options/style-options.php:101
+msgid "Form style"
+msgstr "Style du formulaire"
+
+#. translators: [ADMIN] Style tab option
+#: plugin-options/style-options.php:67
+msgid "Set the padding for the content in all block options."
+msgstr "Définissez la marge interne du contenu dans toutes les options du bloc."
+
+#. translators: [ADMIN] Style tab option
+#: plugin-options/style-options.php:49
+msgid "Set the background color for all block options."
+msgstr "Définissez la couleur d’arrière-plan pour toutes les options du bloc."
+
+#. translators: [ADMIN] Style tab option (description)
+#: plugin-options/style-options.php:30
+msgid "Choose which heading to use for the titles in the block of options."
+msgstr "Choisissez l’en-tête à utiliser pour les titres dans le bloc d’options."
+
+#. translators: [ADMIN] General Settings > Cart & Order sub-tab option
+#. (description)
+#: plugin-options/settings/cart-options.php:66
+msgid "Enable to hide the options in the order email."
+msgstr "Activer pour masquer les options dans l’e-mail de commande."
+
+#. translators: [ADMIN] General Settings > Cart & Order sub-tab option
+#. (description)
+#: plugin-options/settings/cart-options.php:55
+msgid "Enable to replace the product image with the option image in the cart."
+msgstr "Activer pour remplacer l’image du produit par l’image de l’option dans le panier."
+
+#. translators: [ADMIN] General Settings tab option
+#: plugin-options/settings/general-options.php:101
+msgid "Show product price and total options"
+msgstr "Afficher le prix du produit et le total des options"
+
+#. translators: [ADMIN] General Settings tab option
+#: plugin-options/settings/general-options.php:94
+msgid "Choose what information to show in the total price box."
+msgstr "Choisissez les informations à afficher dans la boîte de prix total."
+
+#. translators: [ADMIN] General Settings tab option
+#: plugin-options/settings/general-options.php:59
+msgid "Enter the text for the \"Select options\" button."
+msgstr "Saisissez le texte du bouton « Sélectionner les options »."
+
+#. translators: [ADMIN] General Settings tab option
+#: plugin-options/settings/general-options.php:57
+msgid "Label for \"Select options\" button"
+msgstr "Libellé pour le bouton « Sélectionner les options »"
+
+#. translators: [ADMIN] General Settings tab option
+#: plugin-options/settings/general-options.php:49
+msgid "\"Select options\" button"
+msgstr "Bouton « Sélectionner les options »"
+
+#. translators: [ADMIN] General Settings tab option
+#: plugin-options/settings/general-options.php:41
+msgid "In WooCommerce pages show"
+msgstr "Affichage dans les pages de WooCommerce"
+
+#. translators: [ADMIN] General Settings tab option
+#: plugin-options/settings/general-options.php:33
+msgid "Before \"Add to cart\""
+msgstr "Avant « Ajouter au panier »"
+
+#. translators: [ADMIN] General Settings tab option
+#: plugin-options/settings/general-options.php:27
+msgid "Choose the position for the options blocks."
+msgstr "Choisissez la position des blocs d’options."
+
+#. translators: [ADMIN] Add-on name.
+#. translators: [ADMIN] Add-on name (option).
+#: includes/class-yith-wapo.php:240 includes/class-yith-wapo.php:242
+msgid "Color swatch"
+msgstr "Échantillon de couleur"
+
+#. translators: [ADMIN] Add-on name.
+#: includes/class-yith-wapo.php:226
+msgid "Input text"
+msgstr "Texte de saisie"
+
+#. translators: [ADMIN] Add-on name.
+#: includes/class-yith-wapo.php:219
+msgid "Radio"
+msgstr "Radio"
+
+#. translators: [ADMIN] Add-on name.
+#: includes/class-yith-wapo.php:185 views/addons/html_heading.php:19
+msgid "Heading"
+msgstr "Titre"
+
+#. translators: [FRONT] Add-ons table shown on the product page
+#: templates/front/addons-price-table.php:23
+msgid "Order total"
+msgstr "Total de la commande"
+
+#. translators: [ADMIN] Style tab option
+#: plugin-options/style-options.php:204
+msgid "Set the description font size in pixel."
+msgstr "Définissez la taille de la police de description en pixels."
+
+#. translators: [ADMIN] General Settings tab option
+#: plugin-options/settings/general-options.php:115
+msgid "Enable to hide all titles and images set in the \"Display & Style\" tab of the options."
+msgstr "Activer pour masquer tous les titres et images définis dans l’onglet « Affichage et style » des options."
+
+#. translators: [ADMIN] General Settings tab option
+#: plugin-options/settings/general-options.php:125
+msgid "Enable to hide all the images uploaded in the \"populate options\" tab of the options."
+msgstr "Activez pour masquer toutes les images téléversées dans l’onglet « Renseigner les options » des options."
+
+#. Plugin Name of the plugin
+#: init.php
+msgid "YITH WooCommerce Product Add-ons & Extra Options"
+msgstr "YITH WooCommerce Product Add-ons & Extra Options"
+
+#: plugin-fw/templates/fields/image-dimensions.php:18
+msgctxt "Image width field label"
+msgid "Width"
+msgstr "Largeur"
+
+#: plugin-fw/templates/fields/image-dimensions.php:23
+msgctxt "Image height field label"
+msgid "Height"
+msgstr "Hauteur"
+
+#: plugin-fw/templates/panel/help-tab.php:204
+msgctxt "Help tab submit ticket button"
+msgid "Submit a ticket"
+msgstr "Envoyer un ticket"
+
+#: plugin-fw/templates/panel/help-tab.php:196
+msgctxt "Help tab submit ticket description"
+msgid "If you are experiencing any technical issues, ask for help from our developers. Submit a ticket through our support desk and we will help you as soon as possible."
+msgstr "Si vous rencontrez des problèmes techniques, demandez de l’aide à nos développeurs et développeuses. Envoyez un ticket via notre service de support et nous vous aiderons dès que possible."
+
+#: plugin-fw/includes/class-yit-assets.php:241
+msgid "Are you sure you want to delete the selected items?"
+msgstr "Confirmez-vous la suppression des éléments sélectionnés ?"
+
+#: plugin-fw/includes/class-yit-help-desk.php:148
+msgid "There was an error with your request; please try again later."
+msgstr "Un problème est survenu avec votre requête. Veuillez réessayer plus tard."
+
+#. translators: 1. Plugin name.
+#: plugin-fw/includes/class-yit-plugin-panel.php:920
+msgctxt "Help tab default title"
+msgid "Thank you for purchasing %s!"
+msgstr "Merci d’avoir acheté %s !"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:1007
+msgctxt "Help tab name"
+msgid "Help"
+msgstr "Aide"
+
+#: plugin-fw/templates/panel/help-tab.php:96
+msgctxt "Help tab Watch Videotutorials link"
+msgid "Videos are also available in:"
+msgstr "Des vidéos sont également disponibles dans :"
+
+#: plugin-fw/templates/panel/help-tab.php:126
+msgctxt "Help tab Read Documentation link"
+msgid "Read the documentation"
+msgstr "Lire la documentation"
+
+#: plugin-fw/templates/panel/help-tab.php:139
+msgctxt "Help tab Watch video tutorials link"
+msgid "Watch our video tutorials"
+msgstr "Regardez nos tutoriels vidéo"
+
+#: plugin-fw/templates/panel/help-tab.php:155
+msgctxt "Help tab view FAQs link"
+msgid "to find answers to your doubts."
+msgstr "pour trouver des réponses à vos doutes."
+
+#: plugin-fw/templates/panel/help-tab.php:170
+msgctxt "Help tab FAQ title"
+msgid "Last FAQs in our Help Center"
+msgstr "Dernière FAQ dans notre centre d’aide"
+
+#: plugin-fw/templates/panel/help-tab.php:184
+msgctxt "Help tab FAQ link"
+msgid "View all FAQs >"
+msgstr "Voir toutes les FAQ >"
+
+#: plugin-fw/templates/panel/help-tab.php:193
+msgctxt "Help tab submit ticket title"
+msgid "Need help?"
+msgstr "Besoin d’aide ?"
+
+#: plugin-fw/templates/panel/help-tab.php:152
+msgctxt "Help tab view FAQs link"
+msgid "Check the FAQs"
+msgstr "Consulter les FAQ"
+
+#. translators: 1. Url to EN playlist.
+#: plugin-fw/templates/panel/help-tab.php:89
+msgctxt "Help tab view all video link"
+msgid "Check the full <a href=\"%s\" target=\"_blank\">Playlist on Youtube</a> to learn more >"
+msgstr "Consultez <a href=\"%s\" target=\"_blank\">la liste de lecture complète sur Youtube</a> pour en apprendre davantage >"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:929
+msgctxt "Help tab default description"
+msgid "We want to help you enjoy a wonderful experience with all of our products."
+msgstr "Nous voulons vous aider à profiter d’une merveilleuse expérience avec tous nos produits."
+
+#: plugin-fw/includes/class-yit-assets.php:237
+msgid "Are you sure you want to trash the selected items?"
+msgstr "Confirmez-vous la mise à la corbeille des éléments sélectionnés ?"
+
+#: plugin-fw/includes/class-yit-assets.php:238 plugin-fw/yit-functions.php:1996
+msgctxt "Trash confirmation action"
+msgid "Yes, move to trash"
+msgstr "Oui, mettre à la corbeille"
+
+#: plugin-fw/includes/class-yit-assets.php:224
+msgctxt "Button text"
+msgid "Confirm"
+msgstr "Confirmer"
+
+#: plugin-fw/includes/class-yit-assets.php:225
+msgctxt "Button text"
+msgid "Cancel"
+msgstr "Annuler"
+
+#: plugin-fw/includes/class-yit-assets.php:236 plugin-fw/yit-functions.php:1993
+msgid "Confirm trash"
+msgstr "Confirmer la mise à la corbeille"
+
+#. translators: [ADMIN] Edit block page (delete action)
+#: plugin-fw/includes/class-yit-assets.php:240 plugin-fw/yit-functions.php:2011
+#: plugin-fw/yit-functions.php:2138 views/block-editor/block-editor.php:249
+msgid "Confirm delete"
+msgstr "Confirmer la suppression"
+
+#. translators: %s is the title of the post object.
+#: plugin-fw/includes/class-yit-assets.php:241 plugin-fw/yit-functions.php:1927
+#: plugin-fw/yit-functions.php:2086
+msgid "This action cannot be undone and you will not be able to recover this data."
+msgstr "Cette action ne peut pas être annulée et vous ne pourrez pas récupérer ces données."
+
+#: includes/admin-tables/class-yith-wapo-blocks-list-table.php:223
+#: plugin-fw/includes/class-yit-assets.php:242 plugin-fw/yit-functions.php:2014
+#: plugin-fw/yit-functions.php:2140
+msgctxt "Delete confirmation action"
+msgid "Yes, delete"
+msgstr "Oui, supprimer"
+
+#. translators: %s is the name of the post type (example Back to "Membership
+#. Plans").
+#: plugin-fw/includes/class-yith-post-type-admin.php:294
+msgid "Back to \"%s\""
+msgstr "Retour vers « %s »"
+
+#. translators: %s is the name of the post type (example Back to "Membership
+#. Plans").
+#: plugin-fw/includes/class-yith-post-type-admin.php:294
+msgid "Back to the list"
+msgstr "Retour à la liste"
+
+#: plugin-fw/templates/panel/v2/panel-content-page.php:57
+#: plugin-fw/templates/panel/v2/woocommerce/woocommerce-form.php:69
+#: plugin-fw/templates/panel/woocommerce/woocommerce-form.php:27
+#: plugin-fw/templates/panel/woocommerce/woocommerce-form.php:31
+msgid "Save Options"
+msgstr "Enregistrer les options"
+
+#: plugin-fw/templates/panel/woocommerce/woocommerce-form.php:31
+msgid "Options Saved"
+msgstr "Options enregistrées"
+
+#. translators: %s is the title of the post object.
+#: plugin-fw/yit-functions.php:1927 plugin-fw/yit-functions.php:2086
+msgid "Are you sure you want to delete \"%s\"?"
+msgstr "Confirmez-vous la suppression de « %s » ?"
+
+#: plugin-fw/yit-functions.php:1939
+msgctxt "Post action"
+msgid "Preview"
+msgstr "Prévisualiser"
+
+#: plugin-fw/yit-functions.php:1948
+msgctxt "Post action"
+msgid "View"
+msgstr "Voir"
+
+#: plugin-fw/yit-functions.php:1959
+msgctxt "Post action"
+msgid "Edit"
+msgstr "Modifier"
+
+#: plugin-fw/yit-functions.php:1967
+msgctxt "Post action"
+msgid "Duplicate"
+msgstr "Dupliquer"
+
+#: plugin-fw/yit-functions.php:1979
+msgctxt "Post action"
+msgid "Restore"
+msgstr "Restaurer"
+
+#: plugin-fw/yit-functions.php:2004
+msgctxt "Post action"
+msgid "Delete Permanently"
+msgstr "Supprimer définitivement"
+
+#: plugin-fw/yit-functions.php:2025 plugin-fw/yit-functions.php:2033
+#: plugin-fw/yit-functions.php:2149
+msgid "Further actions"
+msgstr "Actions supplémentaires"
+
+#: plugin-fw/yit-functions.php:2100
+msgctxt "Term action"
+msgid "View"
+msgstr "Voir"
+
+#: plugin-fw/yit-functions.php:2110
+msgctxt "Term action"
+msgid "Edit"
+msgstr "Modifier"
+
+#: plugin-fw/yit-functions.php:2118
+msgctxt "Term action"
+msgid "Duplicate"
+msgstr "Dupliquer"
+
+#: plugin-fw/yit-functions.php:2131
+msgctxt "Term action"
+msgid "Delete"
+msgstr "Supprimer"
+
+#: plugin-fw/yit-functions.php:1987
+msgctxt "Post action"
+msgid "Trash"
+msgstr "Mettre à la corbeille"
+
+#. translators: %s is the title of the post object.
+#: plugin-fw/yit-functions.php:1925
+msgid "Are you sure you want to move \"%s\" to trash?"
+msgstr "Confirmez-vous le déplacement de « %s » à la corbeille ?"
+
+#: plugin-fw/templates/panel/panel-header.php:26
+#: plugin-fw/templates/panel/v2/panel-header.php:21
+msgid "help us by leaving a good review"
+msgstr "nous aider en laissant un avis"
+
+#. translators: %s it the Elementor Widget title.
+#: plugin-fw/includes/builders/elementor/class-yith-elementor-widget.php:252
+msgctxt "Elementor Widget - section title"
+msgid "%s - Options"
+msgstr "%s - Options"
+
+#: plugin-fw/templates/fields/copy-to-clipboard.php:41
+msgctxt "Copy-to-clipboard message"
+msgid "Copied!"
+msgstr "Copié !"
+
+#: plugin-fw/templates/fields/copy-to-clipboard.php:45
+msgctxt "Copy-to-clipboard button text"
+msgid "Copy"
+msgstr "Copier"
+
+#: plugin-fw/templates/fields/date-format.php:70
+msgid "Preview:"
+msgstr "Aperçu :"
+
+#. translators: 1. YITH site link; 2. WordPress site link.
+#: plugin-fw/includes/class-yit-pointers.php:84
+#: plugin-fw/includes/class-yit-pointers.php:100
+msgid "Discover all our plugins available on: %1$s and %2$s"
+msgstr "Découvrez toutes nos extensions disponibles sur : %1$s et %2$s"
+
+#: plugin-fw/templates/sysinfo/tabs/error-log.php:48
+msgid "Download"
+msgstr "Télécharger"
+
+#: plugin-fw/templates/sysinfo/tabs/error-log.php:95
+msgid "Copied!"
+msgstr "Copié !"
+
+#: plugin-fw/templates/sysinfo/tabs/error-log.php:95
+msgid "Copy Code"
+msgstr "Copier le code"
+
+#: plugin-fw/templates/sysinfo/tabs/main.php:41
+msgid "Site Info"
+msgstr "Infos du site"
+
+#: plugin-fw/includes/class-yith-system-status.php:191
+msgid "PHPInfo"
+msgstr "PHPInfo"
+
+#: plugin-fw/templates/sysinfo/tabs/main.php:72
+msgid "Plugins Requirements"
+msgstr "Prérequis des extensions"
+
+#. translators: %s file name.
+#: plugin-fw/templates/sysinfo/tabs/error-log.php:86
+msgid "No Log file available. Enable the WordPress debug by adding this in the %s file of your installation"
+msgstr "Aucun fichier Journal disponible. Activez le débogage WordPress en l’ajoutant dans le fichier %s de votre installation"
+
+#: plugin-fw/templates/sysinfo/tabs/error-log.php:59
+msgid "The file size exceeds 8 megabytes so it must be downloaded"
+msgstr "La taille du fichier dépasse 8 mégaoctets de sorte aussi il doit être téléchargé"
+
+#: plugin-fw/includes/class-yith-system-status.php:199
+#: plugin-fw/templates/sysinfo/tabs/error-log.php:108
+msgid "Log Files"
+msgstr "Fichiers journaux"
+
+#: plugin-fw/includes/class-yit-assets.php:239
+#: plugin-fw/includes/class-yit-assets.php:243
+#: plugin-fw/templates/sysinfo/tabs/main.php:54
+#: plugin-fw/templates/sysinfo/tabs/main.php:58
+#: plugin-fw/yit-functions.php:1995 plugin-fw/yit-functions.php:2013
+msgid "No"
+msgstr "Non"
+
+#: plugin-fw/includes/class-yit-assets.php:274
+msgid "Clear color"
+msgstr "Effacer la couleur"
+
+#: plugin-fw/includes/class-yit-assets.php:278
+msgid "Color value"
+msgstr "Valeur de la couleur"
+
+#: plugin-fw/includes/class-yith-system-status.php:563
+msgid "Contact your hosting company in order to install it."
+msgstr "Contactez votre hébergeur pour l’installer."
+
+#. translators: %1$s TLS label, %2$s cURL label
+#: plugin-fw/includes/class-yith-system-status.php:621
+msgid "The system check cannot determine which %1$s version is installed because %2$s module is disabled. Ask your hosting company to enable it."
+msgstr "La vérification système ne peut pas déterminer quelle version %1$s est installée car le module %2$s est désactivé. Demandez à votre société d’hébergement de l’activer."
+
+#. translators: %1$s TLS label
+#: plugin-fw/includes/class-yith-system-status.php:624
+msgid "The system check cannot determine which %1$s version is installed due to a connection issue between your site and our server."
+msgstr "La vérification du système ne peut pas déterminer quelle version de %1$s est installée en raison d’un problème de connexion entre votre site et notre serveur."
+
+#: plugin-fw/templates/fields/dimensions.php:13
+msgctxt "Position in the \"Dimensions\" field"
+msgid "Top"
+msgstr "En haut"
+
+#: plugin-fw/templates/fields/dimensions.php:16
+msgctxt "Position in the \"Dimensions\" field"
+msgid "Left"
+msgstr "À gauche"
+
+#: plugin-fw/templates/sysinfo/tabs/error-log.php:13
+msgid "WP debug.log file"
+msgstr "Fichier WP debug.log"
+
+#: plugin-fw/templates/sysinfo/tabs/error-log.php:18
+msgid "PHP error_log file"
+msgstr "Fichier PHP error_log"
+
+#: plugin-fw/templates/sysinfo/tabs/main.php:54
+#: plugin-fw/templates/sysinfo/tabs/main.php:58
+msgid "Yes"
+msgstr "Oui"
+
+#: plugin-fw/templates/sysinfo/tabs/main.php:57
+msgid "External object cache"
+msgstr "Cache d’objet externe "
+
+#: plugin-fw/templates/fields/dimensions.php:14
+msgctxt "Position in the \"Dimensions\" field"
+msgid "Right"
+msgstr "À droite"
+
+#: plugin-fw/templates/fields/dimensions.php:15
+msgctxt "Position in the \"Dimensions\" field"
+msgid "Bottom"
+msgstr "En bas"
+
+#: plugin-fw/templates/fields/dimensions.php:94
+msgctxt "Tooltip in the \"Dimensions\" field"
+msgid "Link values together"
+msgstr "Lier les valeurs entre elles"
+
+#: plugin-fw/templates/sysinfo/tabs/main.php:53
+msgid "Defined WP_CACHE"
+msgstr "WP_CACHE défini"
+
+#: plugin-fw/includes/class-yit-assets.php:276
+msgid "Select default color"
+msgstr "Sélectionner la couleur par défaut"
+
+#: plugin-fw/includes/class-yit-assets.php:277
+msgid "Select Color"
+msgstr "Sélectionner une couleur"
+
+#: plugin-fw/templates/panel/panel-header.php:23
+#: plugin-fw/templates/panel/v2/panel-header.php:18
+msgid "We need your support"
+msgstr "Nous avons besoin de votre support"
+
+#: plugin-fw/templates/panel/panel-header.php:24
+#: plugin-fw/templates/panel/v2/panel-header.php:19
+msgid "to keep updating and improving the plugin. Please,"
+msgstr "pour continuer à mettre à jour et à améliorer l’extension. Veuillez,"
+
+#: plugin-fw/templates/sysinfo/tabs/main.php:45
+msgid "Site URL"
+msgstr "URL du site"
+
+#: plugin-fw/templates/sysinfo/tabs/main.php:49
+msgid "Output IP Address"
+msgstr "Adresse IP de sortie"
+
+#: plugin-fw/includes/class-yith-system-status.php:522
+msgid "N/A"
+msgstr "N/D"
+
+#: plugin-fw/includes/class-yith-system-status.php:134
+msgid "WordPress Version"
+msgstr "Version de WordPress"
+
+#: plugin-fw/includes/class-yith-system-status.php:135
+msgid "WooCommerce Version"
+msgstr "Version de WooCommerce"
+
+#: plugin-fw/includes/class-yith-system-status.php:136
+msgid "Available Memory"
+msgstr "Mémoire disponible"
+
+#: plugin-fw/includes/class-yith-system-status.php:139
+msgid "WordPress Cron"
+msgstr "Cron WordPress"
+
+#: plugin-fw/includes/class-yith-system-status.php:140
+msgid "SimpleXML"
+msgstr "SimpleXML"
+
+#: plugin-fw/includes/class-yith-system-status.php:141
+msgid "MultiByte String"
+msgstr "Chaînes multi-octets"
+
+#: plugin-fw/includes/class-yith-system-status.php:142
+msgid "ImageMagick Version"
+msgstr "Version ImageMagick"
+
+#: plugin-fw/includes/class-yith-system-status.php:146
+msgid "URL FOpen"
+msgstr "URL FOpen"
+
+#: plugin-fw/includes/class-yith-system-status.php:161
+#: plugin-fw/includes/class-yith-system-status.php:162
+#: plugin-fw/includes/class-yith-system-status.php:187
+msgid "System Status"
+msgstr "État du système"
+
+#: plugin-fw/includes/class-yith-system-status.php:225
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: plugin-fw/includes/class-yith-system-status.php:368
+msgid "Warning!"
+msgstr "Avertissement !"
+
+#. translators: %1$s open link tag, %2$s open link tag
+#: plugin-fw/includes/class-yith-system-status.php:372
+msgid "The system check has detected some compatibility issues on your installation.%1$sClick here%2$s to know more"
+msgstr "La vérification du système a détecté quelques problèmes de compatibilité sur votre installation.%1$sCliquez ici%2$s pour en savoir plus"
+
+#. translators: Status filter in the block list.
+#: includes/admin-tables/class-yith-wapo-blocks-list-table.php:451
+#: plugin-fw/includes/class-yith-system-status.php:518
+msgid "Enabled"
+msgstr "Activé"
+
+#. translators: Status filter in the block list.
+#: includes/admin-tables/class-yith-wapo-blocks-list-table.php:453
+#: plugin-fw/includes/class-yith-system-status.php:518
+msgid "Disabled"
+msgstr "Désactivé"
+
+#: plugin-fw/includes/class-yith-system-status.php:555
+msgid "Update it to the latest version in order to benefit of all new features and security updates."
+msgstr "Mettez-le à jour avec la dernière version afin de bénéficier de toutes les nouvelles fonctionnalités et mises à jour de sécurité."
+
+#: plugin-fw/includes/class-yith-system-status.php:559
+#: plugin-fw/includes/class-yith-system-status.php:565
+msgid "Contact your hosting company in order to update it."
+msgstr "Contactez votre hébergeur afin de le mettre à jour."
+
+#. translators: %1$s code, %2$s file name
+#: plugin-fw/includes/class-yith-system-status.php:570
+msgid "Remove %1$s from %2$s file"
+msgstr "Supprimer %1$s du fichier %2$s"
+
+#: plugin-fw/includes/class-yith-system-status.php:578
+msgid "Contact your hosting company in order to enable it."
+msgstr "Contactez votre hébergeur pour l’activer."
+
+#. translators: %1$s opening link tag, %2$s closing link tag
+#: plugin-fw/includes/class-yith-system-status.php:582
+#: plugin-fw/includes/class-yith-system-status.php:616
+msgid "Read more %1$shere%2$s or contact your hosting company in order to increase it."
+msgstr "Lire la suite %1$sici%2$s ou contactez votre hébergeur pour l’augmenter."
+
+#. translators: %s recommended memory amount
+#: plugin-fw/includes/class-yith-system-status.php:613
+msgid "For optimal functioning of our plugins, we suggest setting at least %s of available memory"
+msgstr "Pour un fonctionnement optimal de nos extensions, nous vous suggérons d’avoir au moins %s de mémoire disponible"
+
+#. translators: 1. user display name; 2. user ID; 3. user email.
+#: plugin-fw/templates/fields/ajax-customers.php:68
+#: plugin-fw/templates/fields/ajax-customers.php:79
+msgid "%1$s (#%2$s &ndash; %3$s)"
+msgstr "%1$s (n°%2$s – %3$s)"
+
+#: plugin-fw/includes/class-yith-system-status.php:137
+msgid "PHP Version"
+msgstr "Version de PHP"
+
+#: plugin-fw/includes/class-yith-system-status.php:138
+msgid "TLS Version"
+msgstr "Version de TLS"
+
+#: plugin-fw/includes/class-yith-system-status.php:143
+msgid "GD Library"
+msgstr "Bibliothèque GD"
+
+#. translators: %1$s plugin name, %2$s requirement name
+#: plugin-fw/includes/class-yith-system-status.php:543
+msgid "%1$s needs %2$s enabled"
+msgstr "%1$s nécessite que %2$s soit activé"
+
+#. translators: %1$s plugin name, %2$s required memory amount
+#: plugin-fw/includes/class-yith-system-status.php:546
+msgid "%1$s needs at least %2$s of available memory"
+msgstr "%1$s nécessite au moins %2$s de mémoire disponible"
+
+#. translators: %1$s plugin name, %2$s version number
+#: plugin-fw/includes/class-yith-system-status.php:549
+msgid "%1$s needs at least %2$s version"
+msgstr "%1$s nécessite au moins la version %2$s"
+
+#: plugin-fw/templates/sysinfo/system-information-panel.php:27
+msgid "YITH System Information"
+msgstr "Informations système YITH"
+
+#: plugin-fw/templates/fields/date-format.php:65
+msgid "Custom:"
+msgstr "Personnalisé :"
+
+#: plugin-fw/templates/fields/select-buttons.php:19
+msgid "Add All"
+msgstr "Tout ajouter"
+
+#: plugin-fw/templates/fields/select-buttons.php:20
+msgid "Remove All"
+msgstr "Tout supprimer"
+
+#: plugin-fw/includes/class-yith-dashboard.php:36
+msgid "Latest news from YITH Blog"
+msgstr "Dernières nouvelles du blog YITH"
+
+#: plugin-fw/includes/class-yith-dashboard.php:56
+msgid "RSS Error:"
+msgstr "Erreur RSS :"
+
+#: plugin-fw/includes/class-yith-dashboard.php:97
+msgctxt "Plugin FW"
+msgid "Latest update released on"
+msgstr "Dernière mise à jour publiée le"
+
+#: plugin-fw/includes/class-yith-dashboard.php:137
+msgctxt "Button label"
+msgid "Close"
+msgstr "Fermer"
+
+#: plugin-fw/includes/class-yith-dashboard.php:35
+msgid "YITH Latest Updates"
+msgstr "Dernières mises à jour YITH"
+
+#: plugin-fw/includes/class-yith-dashboard.php:63
+msgid "An error has occurred, which probably means the feed is down. Try again later."
+msgstr "Une erreur s’est produite, ce qui signifie probablement que le flux est en panne. Réessayez ultérieurement."
+
+#: plugin-fw/includes/class-yith-dashboard.php:96
+msgctxt "Plugin FW"
+msgid "View Changelog"
+msgstr "Voir le journal des modifications"
+
+#: plugin-fw/includes/builders/gutenberg/class-yith-gutenberg.php:156
+msgctxt "[gutenberg]: Category Name"
+msgid "YITH"
+msgstr "YITH"
+
+#. Author of the plugin
+#: init.php
+msgid "YITH"
+msgstr "YITH"
+
+#. translators: [FRONT] Add-ons table shown on the product page
+#: templates/front/addons-price-table.php:19
+msgid "Product price"
+msgstr "Prix du produit"
+
+#: plugin-fw/templates/fields/icons.php:78
+msgid "Set Default"
+msgstr "Définir par défaut"
+
+#: plugin-fw/yit-plugin.php:86
+msgctxt "Plugin Row Meta"
+msgid "Live Demo"
+msgstr "Démo en direct"
+
+#: plugin-fw/yit-plugin.php:90
+msgctxt "Plugin Row Meta"
+msgid "Documentation"
+msgstr "Documentation"
+
+#: plugin-fw/yit-plugin.php:94
+msgctxt "Plugin Row Meta"
+msgid "Support"
+msgstr "Support"
+
+#: plugin-fw/yit-plugin.php:239
+msgctxt "Action links"
+msgid "Settings"
+msgstr "Réglages"
+
+#: plugin-fw/yit-plugin.php:243
+msgid "License"
+msgstr "Licence"
+
+#: plugin-options/settings/color-label-variations-options.php:18
+msgid "Manage variations"
+msgstr "Gérer les variations"
+
+#: plugin-options/settings/color-label-variations-options.php:31
+msgid "Hide attributes"
+msgstr "Masquer les attributs"
+
+#: plugin-options/settings/color-label-variations-options.php:42
+msgid "Enable tooltip on attributes."
+msgstr "Activer l’infobulle sur les attributs"
+
+#: plugin-options/settings/color-label-variations-options.php:74
+msgid "Show attribute description"
+msgstr "Afficher la description de l’attribut"
+
+#. translators: [ADMIN] Edit block page (block actions in the table)
+#: views/block-editor/block-editor.php:217
+msgid "Duplicate"
+msgstr "Dupliquer"
+
+#. translators: general add-on option.
+#: views/addon-editor/option-common-fields.php:237
+msgid "Price multiplied by string length"
+msgstr "Prix ​​multiplié par la longueur de la chaîne"
+
+#. Plugin URI of the plugin
+#: init.php
+msgid "https://yithemes.com/themes/plugins/yith-woocommerce-product-add-ons/"
+msgstr "https://yithemes.com/themes/plugins/yith-woocommerce-product-add-ons/"
+
+#. Description of the plugin
+#: init.php
+msgid "<code><strong>YITH WooCommerce Product Add-ons & Extra Options</strong></code> is the plugin that allows you to create new options for WooCommerce products. <a href=\"https://yithemes.com/\" target=\"_blank\">Get more plugins for your e-commerce shop on <strong>YITH</strong></a>"
+msgstr "<code><strong>YITH WooCommerce Product Add-ons & Extra Options</strong></code> est l’extension qui vous permet de créer de nouvelles options pour les produits WooCommerce. <a href=\"https://yithemes.com/\" target=\"_blank\">Obtenez plus d’extensions pour votre boutique sur <strong>YITH</strong></a>"
+
+#: plugin-options/settings/color-label-variations-options.php:77
+msgid "Show description below attributes in the single product page."
+msgstr "Afficher la description sous les attributs dans la page du produit unique."
+
+#: plugin-options/settings/color-label-variations-options.php:32
+msgid "Blur attributes"
+msgstr "Flouter les attributs"
+
+#: plugin-options/settings/color-label-variations-options.php:26
+msgid "Choose attribute style after selection."
+msgstr "Choisissez le style de l’attribut après la sélection."
+
+#: plugin-options/settings/color-label-variations-options.php:25
+msgid "Attribute behavior"
+msgstr "Comportement de l’attribut"
+
+#: plugin-fw/yit-plugin.php:98
+msgctxt "Plugin Row Meta"
+msgid "Premium version"
+msgstr "Version premium"
+
+#: plugin-fw/includes/privacy/class-yith-privacy.php:93
+msgctxt "Privacy Policy Content"
+msgid "This sample language includes the basics around what personal data your store may be collecting, storing and sharing, as well as who may have access to that data. Depending on what settings are enabled and which additional plugins are used, the specific information shared by your store will vary. We recommend consulting with a lawyer when deciding what information to disclose on your privacy policy."
+msgstr "Ce language accessible inclut les bases sur les données personnelles que votre boutique peut collecter, stocker et partager, et en plus qui peut avoir accès aux données. En fonction de vos réglages et quels extensions vous utilisez, les informations partagées peuvent varier. Nous recommandons de consulter un avocat au moment de décider quels information divulguer dans votre politique de confidentialité."
+
+#: plugin-fw/includes/privacy/class-yith-privacy.php:97
+msgctxt "Privacy Policy Content"
+msgid "What we collect and store"
+msgstr "Ce que nous collectons et stockons"
+
+#: plugin-fw/includes/privacy/class-yith-privacy.php:103
+msgctxt "Privacy Policy Content"
+msgid "What we share with others"
+msgstr "Ce que nous partageons avec d’autres"
+
+#: plugin-fw/includes/privacy/class-yith-privacy.php:106
+msgctxt "Privacy Policy Content"
+msgid "Payments"
+msgstr "Paiements"
+
+#: plugin-fw/includes/privacy/class-yith-privacy.php:100
+msgctxt "Privacy Policy Content"
+msgid "Who on our team has access"
+msgstr "Qui dans notre équipe a accès"
+
+#: includes/class-yith-wapo-front.php:597
+msgid "This is not a product page!"
+msgstr "Ce n’est pas une page produit !"
+
+#. translators: [ADMIN] Add-on name.
+#. translators: [ADMIN] Add-on name (option).
+#: includes/class-yith-wapo.php:247 includes/class-yith-wapo.php:249
+msgid "Number"
+msgstr "Nombre"
+
+#. translators: [ADMIN] Add-on name.
+#. translators: [ADMIN] Add-on name (option).
+#: includes/class-yith-wapo.php:275 includes/class-yith-wapo.php:277
+msgid "Date"
+msgstr "Date"
+
+#: plugin-fw/includes/privacy/class-yith-privacy.php:61
+msgctxt "Privacy Policy Guide Title"
+msgid "YITH Plugins"
+msgstr "Extensions YITH"
+
+#. translators: general add-on option.
+#: views/addon-editor/option-common-fields.php:123
+msgid "Image"
+msgstr "Image"
+
+#. translators: [FRONT] Label shown on cart for add-on type Upload
+#: includes/class-yith-wapo-cart.php:1411
+msgid "Attached file"
+msgstr "Fichier joint"
+
+#. translators: [ADMIN] Add-on name.
+#. translators: [ADMIN] Add-on name (option).
+#: includes/class-yith-wapo.php:289 includes/class-yith-wapo.php:291
+msgid "Color picker"
+msgstr "Sélecteur de couleur"
+
+#. translators: add-on option.
+#: views/addon-editor/option-common-fields.php:41
+msgid "Label"
+msgstr "Libellé"
+
+#. translators: [ADMIN] Add-on name.
+#: includes/class-yith-wapo.php:190 views/addons/html_text.php:19
+msgid "Text"
+msgstr "Texte"
+
+#. translators: [ADMIN] Add-on name.
+#. translators: [ADMIN] Add-on name (option).
+#: includes/class-yith-wapo.php:212 includes/class-yith-wapo.php:214
+msgid "Checkbox"
+msgstr "Case à cocher"
+
+#: plugin-fw/includes/class-yit-assets.php:273
+msgid "Clear"
+msgstr "Effacer"
+
+#: plugin-fw/includes/class-yit-assets.php:275
+msgid "Default"
+msgstr "Par défaut"
+
+#: plugin-fw/includes/class-yit-plugin-panel-woocommerce.php:607
+msgid "The changes you have made will be lost if you leave this page."
+msgstr "Les modifications que vous avez apportées seront perdues si vous quittez cette page."
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:89
+msgid "Plugin Settings"
+msgstr "Réglages de l’extension"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:90
+msgid "Settings"
+msgstr "Réglages"
+
+#: plugin-fw/includes/class-yit-plugin-subpanel.php:127
+#: plugin-fw/templates/panel/panel-content-page.php:29
+msgid "Save Changes"
+msgstr "Enregistrer les modifications"
+
+#: plugin-fw/includes/class-yit-assets.php:262
+#: plugin-fw/includes/class-yit-plugin-subpanel.php:134
+#: plugin-fw/templates/panel/panel-content-page.php:14
+msgid "If you continue with this action, you will reset all options in this page."
+msgstr "Si vous continuez avec cette action, vous réinitialiserez toutes les options sur cette page."
+
+#: plugin-fw/includes/class-yit-assets.php:261
+#: plugin-fw/includes/class-yit-plugin-subpanel.php:134
+#: plugin-fw/templates/panel/panel-content-page.php:14
+msgid "Are you sure?"
+msgstr "Confirmez-vous ?"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:1558
+msgid "Settings saved"
+msgstr "Réglages enregistrés"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:1559
+msgid "Settings reset"
+msgstr "Réinitialiser les réglages"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:1560
+msgid "Element deleted correctly."
+msgstr "Élément supprimé correctement."
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:1561
+msgid "Element updated correctly."
+msgstr "Élément mis à jour correctement."
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:1563
+msgid "Database imported correctly."
+msgstr "Base de données importée correctement."
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:1564
+msgid "An error has occurred during import. Please try again."
+msgstr "Une erreur est survenue lors de l’importation. Veuillez réessayer."
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:1565
+msgid "The added file is not valid."
+msgstr "Le fichier ajouté n’est pas valide."
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:1566
+msgid "Sorry, import is disabled."
+msgstr "Désolé, l’importation est désactivée."
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:1567
+msgid "Sorting successful."
+msgstr "Tri réussi."
+
+#: plugin-fw/includes/class-yit-pointers.php:80
+msgid "Plugins Activated"
+msgstr "Extensions activées"
+
+#: plugin-fw/includes/class-yith-system-status.php:217
+msgid "YITH Plugins"
+msgstr "Extensions YITH"
+
+#: plugin-fw/templates/fields/customtabs.php:25
+#: plugin-fw/templates/fields/customtabs.php:68
+msgid "Remove"
+msgstr "Supprimer"
+
+#. translators: Column name in the block list.
+#: includes/admin-tables/class-yith-wapo-blocks-list-table.php:48
+#: plugin-fw/templates/fields/customtabs.php:34
+#: plugin-fw/templates/fields/customtabs.php:76
+msgid "Name"
+msgstr "Nom"
+
+#: plugin-fw/templates/fields/customtabs.php:40
+#: plugin-fw/templates/fields/customtabs.php:81
+msgid "Value"
+msgstr "Valeur"
+
+#: plugin-fw/templates/fields/customtabs.php:52
+msgid "Add custom product tab"
+msgstr "Ajouter un onglet de produit personnalisé"
+
+#: plugin-fw/templates/fields/customtabs.php:93
+msgid "Do you want to remove the custom tab?"
+msgstr "Voulez-vous supprimer l’onglet personnalisé ?"
+
+#: plugin-fw/templates/fields/image-gallery.php:36
+msgid "Delete image"
+msgstr "Supprimer l’image"
+
+#: plugin-fw/templates/fields/image-gallery.php:33
+msgid "Add Images to Gallery"
+msgstr "Ajouter des images à la galerie"
+
+#: plugin-fw/templates/fields/image-gallery.php:34
+msgid "Add to gallery"
+msgstr "Ajouter à la galerie"
+
+#: plugin-fw/templates/fields/image-gallery.php:35
+msgid "Add images"
+msgstr "Ajouter des images"
+
+#. translators: [ADMIN] Edit block page (block actions in the table)
+#: plugin-fw/templates/fields/image-gallery.php:26
+#: plugin-fw/templates/fields/image-gallery.php:37
+#: views/block-editor/block-editor.php:234
+msgid "Delete"
+msgstr "Supprimer"
+
+#: plugin-fw/templates/fields/sidebars.php:20
+msgid "Left sidebar"
+msgstr "Colonne latérale gauche"
+
+#: plugin-fw/templates/fields/sidebars.php:23
+msgid "Right sidebar"
+msgstr "Colonne latérale droite"
+
+#: plugin-fw/templates/fields/sidebars.php:41
+#: plugin-fw/templates/fields/sidebars.php:56
+msgid "Choose a sidebar"
+msgstr "Choisir une colonne latérale"
+
+#: plugin-fw/templates/fields/sidebars.php:54
+msgid "Right Sidebar"
+msgstr "Colonne latérale droite"
+
+#: plugin-fw/templates/fields/upload.php:34
+#: plugin-fw/templates/panel/woocommerce/woocommerce-upload.php:37
+msgid "Upload"
+msgstr "Téléverser"
+
+#: plugin-fw/templates/fields/upload.php:39
+msgid "Reset"
+msgstr "Réinitialiser"
+
+#: plugin-fw/templates/panel/v2/panel-content-page.php:58
+#: plugin-fw/templates/panel/v2/woocommerce/woocommerce-form.php:70
+#: plugin-fw/templates/panel/woocommerce/woocommerce-form.php:41
+msgid "Reset Defaults"
+msgstr "Réinitialiser les réglages par défaut"
+
+#. translators: [ADMIN] Edit block page
+#: views/block-editor/block-editor.php:126
+msgid "Options"
+msgstr "Options"
+
+#: plugin-options/settings/color-label-variations-options.php:53
+msgid "Top"
+msgstr "En haut"
+
+#: plugin-options/settings/color-label-variations-options.php:66
+msgid "Fade in"
+msgstr "Fondu entrant"
+
+#: plugin-options/settings/color-label-variations-options.php:39
+msgid "Enable tooltip"
+msgstr "Activer l’infobulle"
+
+#. translators: [ADMIN] Part of text on block editor, depending on add-on type
+#: includes/yith-wapo-functions.php:735
+msgid "options"
+msgstr "options"
+
+#: views/addon-editor/addon-conditional-logic.php:304
+msgid "Selected"
+msgstr "Sélectionné"
+
+#. translators: Add-on editor panel.
+#: views/addon-editor/addon-editor.php:115
+msgid "Title"
+msgstr "Titre"
+
+#. translators: Add-on editor panel.
+#. translators: add-on option.
+#: views/addon-editor/addon-editor.php:137
+#: views/addon-editor/option-common-fields.php:72
+msgid "Description"
+msgstr "Description"
+
+#. translators: Add-on editor panel.
+#: views/addon-editor/addon-editor.php:381
+msgid "Cancel"
+msgstr "Annuler"
+
+#: views/addons/html_separator.php:51
+msgid "Width"
+msgstr "Largeur"
+
+#. translators: Column name in the block list.
+#: includes/admin-tables/class-yith-wapo-blocks-list-table.php:50
+msgid "Priority"
+msgstr "Priorité"
+
+#. translators: [ADMIN] Edit block page (block actions in the table)
+#: views/block-editor/block-editor.php:201
+msgid "Edit"
+msgstr "Modifier"
+
+#. translators: general add-on option.
+#: views/addon-editor/option-common-fields.php:161
+msgid "Price"
+msgstr "Prix"
+
+#. translators: [ADMIN] Add-on name (option).
+#: includes/class-yith-wapo.php:221
+msgid "Radio button"
+msgstr "Bouton radio"
+
+#. translators: Block options page, "Show on" column.
+#: includes/admin-tables/class-yith-wapo-blocks-list-table.php:117
+msgid "Products"
+msgstr "Produits"
+
+#. translators: Block options page, "Show on" column.
+#: includes/admin-tables/class-yith-wapo-blocks-list-table.php:142
+msgid "Categories"
+msgstr "Catégories"
+
+#. Author URI of the plugin
+#: init.php
+msgid "https://yithemes.com/"
+msgstr "https://yithemes.com/"
+
+#: plugin-options/settings/color-label-variations-options.php:62
+msgid "Select tooltip animation."
+msgstr "Sélectionnez l’animation de l’infobulle."
+
+#: plugin-options/settings/color-label-variations-options.php:61
+msgid "Tooltip animation"
+msgstr "Animation de l’infobulle"
+
+#: plugin-options/settings/color-label-variations-options.php:54
+msgid "Bottom"
+msgstr "En bas"
+
+#: plugin-options/settings/color-label-variations-options.php:49
+msgid "Select tooltip position."
+msgstr "Sélectionnez la position de l’infobulle."
+
+#: plugin-options/settings/color-label-variations-options.php:48
+msgid "Tooltip position"
+msgstr "Position de l’infobulle"
+
+#. translators: general add-on option.
+#: views/addon-editor/option-common-fields.php:57
+msgid "Tooltip"
+msgstr "Infobulle"
+
+#. translators: general add-on option.
+#: views/addon-editor/option-common-fields.php:232
+msgid "Fixed amount"
+msgstr "Montant fixe"
+
+#: plugin-fw/templates/fields/sidebars.php:39
+msgid "Left Sidebar"
+msgstr "Colonne latérale gauche"
+
+#: plugin-fw/templates/fields/sidebars.php:26
+#: plugin-fw/templates/fields/sidebars.php:29
+msgid "No sidebar"
+msgstr "Aucune colonne latérale"
+
+#. translators: general add-on option.
+#: views/addon-editor/option-common-fields.php:266
+msgid "Required"
+msgstr "Obligatoire"
+
+#. translators: [ADMIN] Add-on name.
+#: includes/class-yith-wapo.php:282
+msgid "File upload"
+msgstr "Téléversement de fichier"
+
+#. translators: [ADMIN] Add-on name.
+#. translators: [ADMIN] Add-on name (option).
+#: includes/class-yith-wapo.php:233 includes/class-yith-wapo.php:235
+msgid "Textarea"
+msgstr "Zone de texte"
+
+#. translators: [ADMIN] Add-on name.
+#: includes/class-yith-wapo.php:254
+msgid "Select"
+msgstr "Sélectionner"
+
+#: plugin-fw/templates/fields/ajax-products.php:16
+msgid "Search for a product..."
+msgstr "Rechercher un produit…"
+
+#: plugin-fw/includes/class-yit-pointers.php:96
+msgid "Plugins Upgraded"
+msgstr "Extensions mises à jour"
+
+#: plugin-fw/templates/fields/customtabs.php:17
+msgid "Expand all"
+msgstr "Tout déplier"
+
+#: plugin-fw/templates/fields/customtabs.php:17
+msgid "Close all"
+msgstr "Tout fermer"
+
+#: plugin-fw/templates/fields/customtabs.php:41
+#: plugin-fw/templates/fields/customtabs.php:82
+msgid "Content of the tab. (HTML is supported)"
+msgstr "Contenu de l’onglet. (le HTML est pris en charge)"
+
+#: templates/front/addons/select.php:34
+msgid "Select an option"
+msgstr "Sélectionner une option"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:559
+#: plugin-fw/includes/class-yit-plugin-panel.php:562
+msgid "How to install premium version"
+msgstr "Comment installer la version premium"
+
+#: plugin-fw/includes/class-yit-plugin-subpanel.php:137
+#: plugin-fw/templates/panel/panel-content-page.php:38
+msgid "Reset to default"
+msgstr "Réinitialiser à la valeur par défaut"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:1557
+msgid "The element you have entered already exists. Please, enter another name."
+msgstr "L’élément que vous avez saisi existe déjà. Veuillez saisir un autre nom."
+
+#: plugin-options/settings/color-label-variations-options.php:67
+msgid "Slide in"
+msgstr "Glissement intérieur"

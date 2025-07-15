@@ -1,0 +1,194 @@
+# Translation of Plugins - Stock Manager for WooCommerce - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - Stock Manager for WooCommerce - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-05-02 12:35:15+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Stock Manager for WooCommerce - Stable (latest release)\n"
+
+#: admin/views/import-export.php:248
+msgid "Create export file"
+msgstr "Créer un fichier d’export"
+
+#: admin/views/import-export.php:247
+msgid "You can download csv file, with your stock data. "
+msgstr "Vous pouvez télécharger un fichier csv, contenant vos données de stock "
+
+#: admin/views/import-export.php:244
+msgid "Export"
+msgstr "Exporter"
+
+#: admin/views/import-export.php:227
+msgid "Sorry, there was an error uploading your file."
+msgstr "Désolé, une erreur est survenue lors du téléversement du fichier."
+
+#: admin/views/import-export.php:165
+msgid "Upload"
+msgstr "Téléverser"
+
+#: admin/views/import-export.php:156
+msgid "Upload csv file"
+msgstr "Téléverser un fichier csv"
+
+#: admin/views/import-export.php:151
+msgid "quantity value. If is empty, 0 will be save."
+msgstr "Quantité, si vide, 0 sera enregistré"
+
+#: admin/views/import-export.php:149
+msgid "values: \"instock\", \"outofstock\". If is empty \"outofstock\" will be save."
+msgstr "Valeur : \"En stock\", \"En rupture de stock\". si vide \"En rupture de stock\" sera enregistré."
+
+#: admin/views/import-export.php:148 admin/views/import-export.php:150
+msgid "values: \"yes\", \"notify\", \"no\". If is empty \"no\" will be save."
+msgstr "Valeurs : \"Oui\", \"Notifier\", \"Non\". si Vide \"Non\" sera enregistré."
+
+#: admin/views/import-export.php:141
+msgid "simple"
+msgstr "simple"
+
+#: admin/views/import-export.php:140
+msgid "10"
+msgstr "10"
+
+#: admin/views/import-export.php:138
+msgid "instock"
+msgstr "En stock"
+
+#: admin/views/import-export.php:137 admin/views/import-export.php:139
+msgid "yes"
+msgstr "Oui"
+
+#: admin/views/import-export.php:136
+msgid "T-shirt"
+msgstr "T-shirt"
+
+#: admin/views/import-export.php:125
+#: admin/assets/src/components/Products.js:115
+#: admin/assets/src/components/ScreenOptions.js:48
+msgid "Product name"
+msgstr "Nom du produit"
+
+#: admin/views/import-export.php:119
+msgid "If you have a lot of products and export/import not working, increase memory limit.. "
+msgstr "Si vous avez beaucoup de produits et que l’import/export ne fonctionne pas, pensez à augmenter la mémoire allouée…"
+
+#: admin/views/import-export.php:118
+msgid "CSV file must be in this format, or you can export file with exist data and edit them. "
+msgstr "Le fichier CSV doit être dans ce format, ou vous pouvez exporter le fichier avec les données existantes et le modifier."
+
+#: admin/views/import-export.php:117
+msgid "You can upload csv file, with your stock data. "
+msgstr "Vous pouvez téléverser le fichier csv, avec vous données de stock."
+
+#: admin/views/import-export.php:114
+msgid "Import"
+msgstr "Importer"
+
+#: admin/views/log-history.php:69
+msgid "No result"
+msgstr "Aucun résultat"
+
+#: admin/views/log-history.php:48
+msgid "Date"
+msgstr "Date"
+
+#: admin/views/log.php:60 admin/views/log.php:94
+msgid "History"
+msgstr "Historique"
+
+#: admin/views/import-export.php:129 admin/views/import-export.php:151
+#: admin/views/log-history.php:49 admin/views/log.php:33
+#: admin/assets/src/components/Products.js:148
+#: admin/assets/src/components/ScreenOptions.js:83
+msgid "Stock"
+msgstr "Stock"
+
+#: admin/views/import-export.php:127 admin/views/import-export.php:149
+#: admin/assets/src/components/ProductFilter.js:112
+#: admin/assets/src/components/Products.js:142
+#: admin/assets/src/components/ScreenOptions.js:73
+msgid "Stock status"
+msgstr "Etat des stocks"
+
+#: admin/views/import-export.php:126 admin/views/import-export.php:148
+#: admin/assets/src/components/Products.js:139
+#: admin/assets/src/components/ScreenOptions.js:68
+msgid "Manage stock"
+msgstr "Gérer le stock"
+
+#: admin/views/import-export.php:131 admin/views/log.php:32
+msgid "Parent ID"
+msgstr "ID parent"
+
+#: admin/views/import-export.php:130 admin/views/log.php:31
+#: admin/assets/src/components/Products.js:97
+msgid "Product type"
+msgstr "Type du produit"
+
+#: admin/views/log.php:30
+msgid "Name"
+msgstr "Nom"
+
+#: admin/views/import-export.php:123 admin/views/import-export.php:146
+#: admin/assets/src/components/Products.js:93
+msgid "ID"
+msgstr "ID"
+
+#: admin/views/import-export.php:124 admin/views/import-export.php:147
+#: admin/views/log.php:29 admin/assets/src/components/ProductFilter.js:64
+#: admin/assets/src/components/Products.js:99
+#: admin/assets/src/components/ScreenOptions.js:38
+msgid "SKU"
+msgstr "UGS"
+
+#: admin/class-stock-manager-admin.php:314
+#: admin/class-stock-manager-admin.php:315
+msgid "Stock log"
+msgstr "Journal des stocks"
+
+#: admin/class-stock-manager-admin.php:306
+#: admin/class-stock-manager-admin.php:307
+msgid "Import/Export"
+msgstr "Importation / Exportation"
+
+#: admin/class-stock-manager-admin.php:181
+msgid "Yes"
+msgstr "Oui"
+
+#: admin/class-stock-manager-admin.php:180
+msgid "Notify"
+msgstr "Notifier"
+
+#: admin/class-stock-manager-admin.php:179
+msgid "No"
+msgstr "Non"
+
+#: admin/class-stock-manager-admin.php:176
+msgctxt "Tax status"
+msgid "None"
+msgstr "Aucun"
+
+#: admin/class-stock-manager-admin.php:175
+msgid "Shipping only"
+msgstr "Expédition seulement"
+
+#: admin/class-stock-manager-admin.php:174
+msgid "Taxable"
+msgstr "Taxable"
+
+#: admin/class-stock-manager-admin.php:157
+msgid "No shipping class"
+msgstr "Pas de classe de livraison"
+
+#: woocommerce-stock-manager.php:273
+msgid "All done! Close."
+msgstr "Tout terminé ! Fermer."
+
+#: woocommerce-stock-manager.php:77
+msgid "Alert!"
+msgstr "Alerte !"

@@ -1,0 +1,204 @@
+== Changelog ==
+
+2025-05-27 - version 1.3.5
+* Fixed compatibility issues when using a mix of legacy and block pages
+* Shipping order synchronization no longer return orders older than 90 days
+
+2025-04-29 - version 1.3.4
+* Fixed compatibility issues with parcel point injection on block checkout
+* Added logs on boxtal pricing line save error
+
+2024-12-09 - version 1.3.3
+* Fixed translation issues with woocommerce blocks
+* Replaced mapbox with maplibre
+* Maplibre token is now loaded when opening the parcel point map
+
+2024-12-05 - version 1.3.2
+* Fixed frontoffice translation issues
+
+2024-10-30 - version 1.3.1
+* Updated onboarding url
+* Fixed an issue with botal_connect_print_parcelpoint hook not printing the parcel point
+
+2024-09-05 - version 1.3.0
+* Fixed woocommerce block and legacy detection on cart and checkout page
+* Fixed typos
+
+2024-08-27 - version 1.2.25
+* Fixed an issue with cart and checkout translations
+* Offers are now correctly refreshed when the cart change
+
+2024-07-30 - version 1.2.24
+* Fixed a shipping method display issue when no shipping classes were selected
+* Fixed an error when updating a synchronized shipping order status
+
+2024-07-29 - version 1.2.23
+* Fixed many standard issues
+* Shipping api calls now use wordpress http api
+* Added logs
+
+2024-02-06 - version 1.2.22
+* Parcel point address is now correctly updated on change
+
+2024-01-30 - version 1.2.21
+* Added subscription compatibility
+* Synchronizing orders now ignore virtual products
+
+2023-09-29 - version 1.2.20
+* Updated readme
+
+2023-09-07 - version 1.2.19
+* Fixed uninstall issue for multistores
+
+2023-08-29 - version 1.2.18
+* Added HPOS compatibility
+* Fixed Deprecation issues
+
+2023-07-13 - version 1.2.17
+* Fixed an error when displaying a warning notice
+
+2023-06-08 - version 1.2.16
+* Order notes are now sent private again (changes overwritten by 1.2.15)
+
+2022-05-31 - version 1.2.15
+* Fixed an issue when displaying a parcel point address while ordering
+* Fixed a compatibility issue with Colissimo plugin
+* Fixed an issue when saving parcel point networks for a shipping order
+* Fixed an issue when synchronizing orders with variable articles
+* Tested plugin with wordpress 6.2.2
+
+2022-05-24 - version 1.2.14
+* Order notes are now sent private
+* Tested plugin with wordpress 6.0
+
+2022-04-19 - version 1.2.13
+* Fixed an issue when exporting orders with a missing product
+* Tested plugin with wordpress 5.9
+
+2021-09-22 - version 1.2.12
+* Fixed an issue to display the map
+
+2021-09-17 - version 1.2.11
+* Fixed warnings on wordpress 5.8
+* Fixed an issue causing parcel points to not be displayed correctly
+* Added parcel point and tracking dev hooks
+* Parcel points is now reseted if address changes
+
+2021-05-11 - version 1.2.10
+* Updated tests with wordpress 5.7.1
+
+2021-03-09 - version 1.2.9
+* Fixed PHP8 warnings
+* Updated readme
+
+2020-08-20 - version 1.2.8
+* Tested plugin on woocommerce 4.4.0 and wordpress 5.5.0
+
+2020-07-30 - version 1.2.7
+* Added missing translation
+
+2020-07-29 - version 1.2.6
+* Removed old translation files
+
+2020-07-08 - version 1.2.5
+* Renamed Boxtal Connect rate to Boxtal Connect
+* Improved settings page
+* Improved Boxtal Connect settings page
+* Removed parcel points from local pickup shipping methods
+* Fixed a translation issue on Boxtal Connect settings page
+* Added a configuration endpoint for remote debugging
+* Parcel point scripts are now loaded only on checkout page
+* Fixed a saving issue on Boxtal Connect settings page
+* Fixed a display issue on front order page
+
+2020-05-14 - version 1.2.4
+* Updated WordPress compatibility
+
+2020-05-14 - version 1.2.3
+* Fixed warnings with PHP7
+* Fixed an issue when saving a shipping method rates
+* Added a get-configuration endpoint for boxtal support
+
+2020-03-10 - version 1.2.2
+* Updated WordPress compatibility
+* Fixed a display issue with the parcel point popup on mobile
+
+2019-09-10 - version 1.2.1
+* Added missing translation keys on pricing rules page
+
+2019-08-27 - version 1.2.0
+* Added selected parcelpoint infos on front and admin order page
+* Fixed an issue causing the plugin to empty all the session instead of only it's own attributes
+
+2019-07-10 - version 1.1.9
+* fixed an issue when exporting orders with articles with variation
+
+2019-06-04 - version 1.1.8
+* fixed an issue when exporting orders with articles with variation (invalidated)
+
+2019-04-11 - version 1.1.7
+* added a quick installation guide on the settings page
+* fixed an issue when changing pricing rules order
+
+2019-01-14 - version 1.1.6
+* corrected bad javascript compression
+
+2019-01-14 - version 1.1.5
+* removed limit of manageable weight decimals
+
+2019-01-11 - version 1.1.4
+* added order shipped and delivered events
+* added feature to associate an order status to order shipped and delivered events
+
+2019-01-09 - version 1.1.3
+* cross browser compatibility
+
+2019-01-03 - version 1.1.2
+* additional authenticity check on api requests
+
+2018-12-26 - version 1.1.1
+* fix import bug
+
+2018-12-26 - version 1.1.0
+* added Boxtal Connect rate
+
+2018-12-20 - version 1.0.12
+* improved maps css
+* fix on order modal view tracking
+
+2018-12-06 - version 1.0.11
+* small fix on map markers clearing
+
+2018-12-03 - version 1.0.10
+* hide fopen error in php library
+
+2018-11-28 - version 1.0.9
+* fixed bug on non woocommerce shipping methods display
+
+2018-11-28 - version 1.0.8
+* improved fopen healthcheck in php library
+
+2018-11-27 - version 1.0.7
+* hide fopen error in php library
+
+2018-11-27 - version 1.0.6
+* add curl support for php library
+
+2018-11-26 - version 1.0.5
+* fixed ajax functions naming conflicts with other plugins
+
+2018-11-26 - version 1.0.4
+* fixed nonce naming conflicts with other plugins
+* improved pairing update process
+
+2018-11-14 - version 1.0.3
+* removed default limit for order retrieval
+
+2018-11-07 - version 1.0.2
+* improved third party shipping plugins compatibility
+
+2018-10-26 - version 1.0.1
+* updated rest api verbs to circumvent server limitations
+
+2018-10-08 - version 1.0.0
+* first stable release
